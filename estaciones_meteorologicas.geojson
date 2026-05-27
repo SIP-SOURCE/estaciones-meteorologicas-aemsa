@@ -1,0 +1,1086 @@
+{
+  "type": "FeatureCollection",
+  "name": "estaciones_meteorologicas",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48448,
+          -33.11576
+        ]
+      },
+      "properties": {
+        "estacion": "Junin",
+        "fecha": "27/05/2026 11:59",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 327.0,
+        "viento_kmh": 1.3,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684604+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66254,
+          -33.16776
+        ]
+      },
+      "properties": {
+        "estacion": "Medrano",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 130.0,
+        "viento_kmh": 7.920000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684630+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.30445,
+          -33.17635
+        ]
+      },
+      "properties": {
+        "estacion": "Alto Verde",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 87.0,
+        "viento_kmh": 1.4400000000000002,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684638+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19166,
+          -33.23983
+        ]
+      },
+      "properties": {
+        "estacion": "Santa Rosa",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 35.0,
+        "viento_kmh": 10.08,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.44579,
+          -33.26463
+        ]
+      },
+      "properties": {
+        "estacion": "Campamentos",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 17.0,
+        "viento_kmh": 9.72,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684649+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21388,
+          -33.09579
+        ]
+      },
+      "properties": {
+        "estacion": "El Marcado",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 59.0,
+        "viento_kmh": 7.920000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684653+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.38836,
+          -32.89344
+        ]
+      },
+      "properties": {
+        "estacion": "Tres Porteñas",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 182.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684657+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.74828,
+          -33.01465
+        ]
+      },
+      "properties": {
+        "estacion": "Russell",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 84.0,
+        "viento_kmh": 9.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684667+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.91601,
+          -33.1319
+        ]
+      },
+      "properties": {
+        "estacion": "Perdriel",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 138.0,
+        "viento_kmh": 6.84,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684672+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.60047,
+          -32.83289
+        ]
+      },
+      "properties": {
+        "estacion": "Las Violetas",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 91.0,
+        "viento_kmh": 2.16,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684676+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.31388,
+          -32.64611
+        ]
+      },
+      "properties": {
+        "estacion": "Gustavo Andre",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 80.0,
+        "viento_kmh": 3.24,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684680+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.59868,
+          -32.59714
+        ]
+      },
+      "properties": {
+        "estacion": "Jocoli",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 129.0,
+        "viento_kmh": 8.64,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684684+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.039364,
+          -33.563946
+        ]
+      },
+      "properties": {
+        "estacion": "Tunuyan",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 304.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.07336,
+          -33.70657
+        ]
+      },
+      "properties": {
+        "estacion": "La Consulta",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 20.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684691+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.16134,
+          -33.64461
+        ]
+      },
+      "properties": {
+        "estacion": "Vista Flores",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 25.0,
+        "viento_kmh": 2.16,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684694+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.201884,
+          -33.508459
+        ]
+      },
+      "properties": {
+        "estacion": "Agua Amarga",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 138.0,
+        "viento_kmh": 7.5600000000000005,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684699+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.10423,
+          -33.80534
+        ]
+      },
+      "properties": {
+        "estacion": "El Cepillo",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 82.0,
+        "viento_kmh": 3.24,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684703+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.01537,
+          -34.64713
+        ]
+      },
+      "properties": {
+        "estacion": "La Llave",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 326.0,
+        "viento_kmh": 12.6,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684706+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.28583,
+          -34.51027
+        ]
+      },
+      "properties": {
+        "estacion": "El Cerrito",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 83.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684710+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.51555,
+          -34.98214
+        ]
+      },
+      "properties": {
+        "estacion": "Bowen",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 7.0,
+        "viento_kmh": 20.52,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684716+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59527,
+          -34.91472
+        ]
+      },
+      "properties": {
+        "estacion": "El Ceibo",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 349.0,
+        "viento_kmh": 22.68,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.72277,
+          -34.87194
+        ]
+      },
+      "properties": {
+        "estacion": "Palermo Chico",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 332.0,
+        "viento_kmh": 21.240000000000002,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.46981,
+          -34.64142
+        ]
+      },
+      "properties": {
+        "estacion": "Cuadro Benegas",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 37.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4234,
+          -34.53346
+        ]
+      },
+      "properties": {
+        "estacion": "Las Paredes",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 108.0,
+        "viento_kmh": 7.920000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684731+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.89835,
+          -34.8327
+        ]
+      },
+      "properties": {
+        "estacion": "Villa Atuel",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 306.0,
+        "viento_kmh": 17.28,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42999,
+          -34.93222
+        ]
+      },
+      "properties": {
+        "estacion": "La Escandinava",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 334.0,
+        "viento_kmh": 9.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684738+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.63277,
+          -34.99722
+        ]
+      },
+      "properties": {
+        "estacion": "La Marzolina",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 0.0,
+        "viento_kmh": 12.96,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684741+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.464505,
+          -33.072353
+        ]
+      },
+      "properties": {
+        "estacion": "San Martin",
+        "fecha": "27/05/2026 10:59",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 136.0,
+        "viento_kmh": 1.8,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684747+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.10838,
+          -33.61922
+        ]
+      },
+      "properties": {
+        "estacion": "Colonia las Rosas",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 25.0,
+        "viento_kmh": 2.16,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684752+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.04251,
+          -33.43319
+        ]
+      },
+      "properties": {
+        "estacion": "Dubois",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 169.0,
+        "viento_kmh": 1.4400000000000002,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684756+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.15766,
+          -33.34669
+        ]
+      },
+      "properties": {
+        "estacion": "El Peral",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 175.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684760+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00188,
+          -33.51461
+        ]
+      },
+      "properties": {
+        "estacion": "Salentein",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 304.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684763+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55712,
+          -35.01066
+        ]
+      },
+      "properties": {
+        "estacion": "Bowen (Escartin)",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 350.0,
+        "viento_kmh": 12.96,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.714465,
+          -33.307417
+        ]
+      },
+      "properties": {
+        "estacion": "Carrizal",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 237.0,
+        "viento_kmh": 5.760000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.313515,
+          -34.739191
+        ]
+      },
+      "properties": {
+        "estacion": "La Correina",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 52.0,
+        "viento_kmh": 5.4,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684773+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.09249,
+          -33.392334
+        ]
+      },
+      "properties": {
+        "estacion": "Las Catitas",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 49.0,
+        "viento_kmh": 6.84,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684776+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.85475,
+          -33.3881
+        ]
+      },
+      "properties": {
+        "estacion": "La Dormida",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 8.0,
+        "viento_kmh": 16.2,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684781+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.03688,
+          -33.87868
+        ]
+      },
+      "properties": {
+        "estacion": "Casas Viejas",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 22.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.306722,
+          -33.015244
+        ]
+      },
+      "properties": {
+        "estacion": "Lambare",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 183.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684791+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.56358,
+          -32.96841
+        ]
+      },
+      "properties": {
+        "estacion": "Los Alamos",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 108.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.154125,
+          -34.687674
+        ]
+      },
+      "properties": {
+        "estacion": "Goudge",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 351.0,
+        "viento_kmh": 11.16,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.91698,
+          -33.319999
+        ]
+      },
+      "properties": {
+        "estacion": "Anchoris",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 136.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684803+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.96251,
+          -33.25305
+        ]
+      },
+      "properties": {
+        "estacion": "Doña Paula",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 87.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684807+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.598308,
+          -33.205193
+        ]
+      },
+      "properties": {
+        "estacion": "Reduccion",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 68.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.07936,
+          -33.96004
+        ]
+      },
+      "properties": {
+        "estacion": "Pareditas",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 165.0,
+        "viento_kmh": 2.16,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684813+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.32965,
+          -32.74771
+        ]
+      },
+      "properties": {
+        "estacion": "Nueva California",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 29.0,
+        "viento_kmh": 4.680000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.338421,
+          -33.332741
+        ]
+      },
+      "properties": {
+        "estacion": "El Mirador",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 89.0,
+        "viento_kmh": 5.04,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684819+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.204271,
+          -33.612216
+        ]
+      },
+      "properties": {
+        "estacion": "Los Chacayes",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 101.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684823+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48006,
+          -32.71372
+        ]
+      },
+      "properties": {
+        "estacion": "El Plumero",
+        "fecha": "27/05/2026 12:04",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 123.0,
+        "viento_kmh": 5.04,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.30687,
+          -33.09866
+        ]
+      },
+      "properties": {
+        "estacion": "El Ramblon",
+        "fecha": "27/05/2026 12:05",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 67.0,
+        "viento_kmh": 5.04,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684829+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.27995,
+          -33.60837
+        ]
+      },
+      "properties": {
+        "estacion": "Los Chacayes (Alpasion)",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 147.0,
+        "viento_kmh": 3.24,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684832+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.32905,
+          -33.604885
+        ]
+      },
+      "properties": {
+        "estacion": "Los Chacayes (Carrizalejo)",
+        "fecha": "27/05/2026 12:06",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 72.0,
+        "viento_kmh": 3.9600000000000004,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684835+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.658793,
+          -33.062661
+        ]
+      },
+      "properties": {
+        "estacion": "Isla Chica",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 139.0,
+        "viento_kmh": 7.2,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684841+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67884,
+          -32.72044
+        ]
+      },
+      "properties": {
+        "estacion": "Jocoli Viejo",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 188.0,
+        "viento_kmh": 9.360000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684844+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.965366,
+          -33.443666
+        ]
+      },
+      "properties": {
+        "estacion": "Cruz Negra",
+        "fecha": "27/05/2026 12:07",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 146.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684847+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.133912,
+          -33.423616
+        ]
+      },
+      "properties": {
+        "estacion": "Cordon del Plata",
+        "fecha": "27/05/2026 12:07",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 145.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684851+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.008373,
+          -34.566594
+        ]
+      },
+      "properties": {
+        "estacion": "Colonia Elena",
+        "fecha": "27/05/2026 12:03",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 7.0,
+        "viento_kmh": 11.520000000000001,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684854+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1014,
+          -34.530612
+        ]
+      },
+      "properties": {
+        "estacion": "Resolana",
+        "fecha": "27/05/2026 12:02",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 217.0,
+        "viento_kmh": 10.8,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684857+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.861878,
+          -34.568597
+        ]
+      },
+      "properties": {
+        "estacion": "Monte Coman",
+        "fecha": "27/05/2026 12:01",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 141.0,
+        "viento_kmh": 19.08,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.25113,
+          -34.828069
+        ]
+      },
+      "properties": {
+        "estacion": "Las Malvinas",
+        "fecha": "27/05/2026 12:01",
+        "precipitacion_mm": 0.0,
+        "direccion_viento_grados": 358.0,
+        "viento_kmh": 9.72,
+        "actualizado_geojson_utc": "2026-05-27T15:07:41.684866+00:00"
+      }
+    }
+  ]
+}
