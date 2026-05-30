@@ -13,11 +13,11 @@
       },
       "properties": {
         "estacion": "Junin",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 211.0,
-        "viento_kmh": 1.1,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567698+00:00"
+        "direccion_viento_grados": 192.0,
+        "viento_kmh": 2.8,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824747+00:00"
       }
     },
     {
@@ -31,11 +31,11 @@
       },
       "properties": {
         "estacion": "Medrano",
-        "fecha": "30/05/2026 2:33",
+        "fecha": "30/05/2026 5:03",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 223.0,
-        "viento_kmh": 10.44,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567726+00:00"
+        "direccion_viento_grados": 208.0,
+        "viento_kmh": 6.84,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824776+00:00"
       }
     },
     {
@@ -49,11 +49,11 @@
       },
       "properties": {
         "estacion": "Alto Verde",
-        "fecha": "30/05/2026 2:33",
+        "fecha": "30/05/2026 5:03",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 67.0,
+        "direccion_viento_grados": 213.0,
         "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567732+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824782+00:00"
       }
     },
     {
@@ -67,11 +67,11 @@
       },
       "properties": {
         "estacion": "Santa Rosa",
-        "fecha": "30/05/2026 2:33",
+        "fecha": "30/05/2026 5:03",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 253.0,
-        "viento_kmh": 3.6,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567739+00:00"
+        "direccion_viento_grados": 254.0,
+        "viento_kmh": 1.08,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824789+00:00"
       }
     },
     {
@@ -85,11 +85,11 @@
       },
       "properties": {
         "estacion": "Campamentos",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 148.0,
-        "viento_kmh": 1.4400000000000002,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567745+00:00"
+        "direccion_viento_grados": 226.0,
+        "viento_kmh": 6.48,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824797+00:00"
       }
     },
     {
@@ -103,11 +103,11 @@
       },
       "properties": {
         "estacion": "El Marcado",
-        "fecha": "30/05/2026 2:33",
+        "fecha": "30/05/2026 5:03",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 212.0,
+        "direccion_viento_grados": 207.0,
         "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567748+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824801+00:00"
       }
     },
     {
@@ -121,11 +121,11 @@
       },
       "properties": {
         "estacion": "Tres Porteñas",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 59.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567752+00:00"
+        "direccion_viento_grados": 200.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824806+00:00"
       }
     },
     {
@@ -139,11 +139,11 @@
       },
       "properties": {
         "estacion": "Russell",
-        "fecha": "30/05/2026 2:35",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 221.0,
-        "viento_kmh": 4.680000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567763+00:00"
+        "direccion_viento_grados": 228.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824815+00:00"
       }
     },
     {
@@ -157,11 +157,11 @@
       },
       "properties": {
         "estacion": "Perdriel",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 187.0,
-        "viento_kmh": 1.08,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567768+00:00"
+        "direccion_viento_grados": 289.0,
+        "viento_kmh": 7.2,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824821+00:00"
       }
     },
     {
@@ -175,11 +175,11 @@
       },
       "properties": {
         "estacion": "Las Violetas",
-        "fecha": "30/05/2026 2:35",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 138.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567772+00:00"
+        "direccion_viento_grados": 214.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824826+00:00"
       }
     },
     {
@@ -193,11 +193,11 @@
       },
       "properties": {
         "estacion": "Gustavo Andre",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 216.0,
-        "viento_kmh": 4.680000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567776+00:00"
+        "direccion_viento_grados": 173.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824830+00:00"
       }
     },
     {
@@ -211,11 +211,11 @@
       },
       "properties": {
         "estacion": "Jocoli",
-        "fecha": "30/05/2026 2:35",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 122.0,
-        "viento_kmh": 6.12,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567779+00:00"
+        "direccion_viento_grados": 162.0,
+        "viento_kmh": 7.5600000000000005,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824835+00:00"
       }
     },
     {
@@ -229,11 +229,11 @@
       },
       "properties": {
         "estacion": "Tunuyan",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 263.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567782+00:00"
+        "direccion_viento_grados": 237.0,
+        "viento_kmh": 4.680000000000001,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824839+00:00"
       }
     },
     {
@@ -247,11 +247,11 @@
       },
       "properties": {
         "estacion": "La Consulta",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 196.0,
-        "viento_kmh": 6.84,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567786+00:00"
+        "direccion_viento_grados": 272.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824843+00:00"
       }
     },
     {
@@ -265,11 +265,11 @@
       },
       "properties": {
         "estacion": "Vista Flores",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 295.0,
-        "viento_kmh": 4.32,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567789+00:00"
+        "direccion_viento_grados": 294.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824848+00:00"
       }
     },
     {
@@ -283,11 +283,11 @@
       },
       "properties": {
         "estacion": "Agua Amarga",
-        "fecha": "30/05/2026 2:32",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 271.0,
-        "viento_kmh": 6.12,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567792+00:00"
+        "direccion_viento_grados": 287.0,
+        "viento_kmh": 10.44,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824852+00:00"
       }
     },
     {
@@ -301,11 +301,11 @@
       },
       "properties": {
         "estacion": "El Cepillo",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 166.0,
-        "viento_kmh": 7.2,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567795+00:00"
+        "direccion_viento_grados": 186.0,
+        "viento_kmh": 9.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824857+00:00"
       }
     },
     {
@@ -319,11 +319,11 @@
       },
       "properties": {
         "estacion": "La Llave",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 274.0,
-        "viento_kmh": 2.52,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567798+00:00"
+        "direccion_viento_grados": 243.0,
+        "viento_kmh": 8.64,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824861+00:00"
       }
     },
     {
@@ -337,11 +337,11 @@
       },
       "properties": {
         "estacion": "El Cerrito",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 299.0,
-        "viento_kmh": 5.04,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567801+00:00"
+        "direccion_viento_grados": 280.0,
+        "viento_kmh": 4.32,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824866+00:00"
       }
     },
     {
@@ -355,11 +355,11 @@
       },
       "properties": {
         "estacion": "Bowen",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 277.0,
-        "viento_kmh": 2.16,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567807+00:00"
+        "direccion_viento_grados": 221.0,
+        "viento_kmh": 3.9600000000000004,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824871+00:00"
       }
     },
     {
@@ -373,11 +373,11 @@
       },
       "properties": {
         "estacion": "El Ceibo",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 244.0,
+        "direccion_viento_grados": 279.0,
         "viento_kmh": 0.36000000000000004,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567812+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824877+00:00"
       }
     },
     {
@@ -391,11 +391,11 @@
       },
       "properties": {
         "estacion": "Palermo Chico",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 266.0,
-        "viento_kmh": 0.7200000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567817+00:00"
+        "direccion_viento_grados": 276.0,
+        "viento_kmh": 1.4400000000000002,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824881+00:00"
       }
     },
     {
@@ -409,11 +409,11 @@
       },
       "properties": {
         "estacion": "Cuadro Benegas",
-        "fecha": "30/05/2026 2:32",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 275.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567820+00:00"
+        "direccion_viento_grados": 284.0,
+        "viento_kmh": 2.52,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824885+00:00"
       }
     },
     {
@@ -427,11 +427,11 @@
       },
       "properties": {
         "estacion": "Las Paredes",
-        "fecha": "30/05/2026 2:32",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 296.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567823+00:00"
+        "direccion_viento_grados": 261.0,
+        "viento_kmh": 8.28,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824889+00:00"
       }
     },
     {
@@ -445,11 +445,11 @@
       },
       "properties": {
         "estacion": "Villa Atuel",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 289.0,
-        "viento_kmh": 5.04,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567826+00:00"
+        "direccion_viento_grados": 274.0,
+        "viento_kmh": 6.84,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824893+00:00"
       }
     },
     {
@@ -463,11 +463,11 @@
       },
       "properties": {
         "estacion": "La Escandinava",
-        "fecha": "30/05/2026 2:32",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 274.0,
+        "direccion_viento_grados": 190.0,
         "viento_kmh": 0.36000000000000004,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567830+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824897+00:00"
       }
     },
     {
@@ -485,7 +485,7 @@
         "precipitacion_mm": 0.0,
         "direccion_viento_grados": 207.0,
         "viento_kmh": 1.4400000000000002,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567832+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824902+00:00"
       }
     },
     {
@@ -499,11 +499,11 @@
       },
       "properties": {
         "estacion": "San Martin",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 243.0,
-        "viento_kmh": 1.08,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567838+00:00"
+        "direccion_viento_grados": 167.0,
+        "viento_kmh": 6.48,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824908+00:00"
       }
     },
     {
@@ -517,11 +517,11 @@
       },
       "properties": {
         "estacion": "Colonia las Rosas",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 295.0,
-        "viento_kmh": 4.32,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567841+00:00"
+        "direccion_viento_grados": 294.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824912+00:00"
       }
     },
     {
@@ -535,11 +535,11 @@
       },
       "properties": {
         "estacion": "Dubois",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 270.0,
-        "viento_kmh": 7.920000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567844+00:00"
+        "direccion_viento_grados": 335.0,
+        "viento_kmh": 10.08,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824919+00:00"
       }
     },
     {
@@ -553,11 +553,11 @@
       },
       "properties": {
         "estacion": "El Peral",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 284.0,
-        "viento_kmh": 9.360000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567847+00:00"
+        "direccion_viento_grados": 315.0,
+        "viento_kmh": 10.8,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824923+00:00"
       }
     },
     {
@@ -571,11 +571,11 @@
       },
       "properties": {
         "estacion": "Salentein",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 263.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567863+00:00"
+        "direccion_viento_grados": 237.0,
+        "viento_kmh": 4.680000000000001,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824927+00:00"
       }
     },
     {
@@ -593,7 +593,7 @@
         "precipitacion_mm": 0.0,
         "direccion_viento_grados": 197.0,
         "viento_kmh": 3.24,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567866+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824931+00:00"
       }
     },
     {
@@ -607,11 +607,11 @@
       },
       "properties": {
         "estacion": "Carrizal",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 217.0,
+        "direccion_viento_grados": 220.0,
         "viento_kmh": 4.32,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567869+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824936+00:00"
       }
     },
     {
@@ -625,11 +625,11 @@
       },
       "properties": {
         "estacion": "La Correina",
-        "fecha": "30/05/2026 2:32",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 319.0,
-        "viento_kmh": 1.08,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567874+00:00"
+        "direccion_viento_grados": 270.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824941+00:00"
       }
     },
     {
@@ -643,11 +643,11 @@
       },
       "properties": {
         "estacion": "Las Catitas",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 243.0,
-        "viento_kmh": 2.8800000000000003,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567886+00:00"
+        "direccion_viento_grados": 14.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824947+00:00"
       }
     },
     {
@@ -661,11 +661,11 @@
       },
       "properties": {
         "estacion": "La Dormida",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 212.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567889+00:00"
+        "direccion_viento_grados": 216.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824951+00:00"
       }
     },
     {
@@ -679,11 +679,11 @@
       },
       "properties": {
         "estacion": "Casas Viejas",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 167.0,
+        "direccion_viento_grados": 178.0,
         "viento_kmh": 7.920000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567892+00:00"
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824955+00:00"
       }
     },
     {
@@ -697,11 +697,11 @@
       },
       "properties": {
         "estacion": "Lambare",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 113.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567895+00:00"
+        "direccion_viento_grados": 191.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824960+00:00"
       }
     },
     {
@@ -715,11 +715,11 @@
       },
       "properties": {
         "estacion": "Los Alamos",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 189.0,
-        "viento_kmh": 6.12,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567900+00:00"
+        "direccion_viento_grados": 193.0,
+        "viento_kmh": 7.5600000000000005,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824965+00:00"
       }
     },
     {
@@ -733,11 +733,11 @@
       },
       "properties": {
         "estacion": "Goudge",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 289.0,
-        "viento_kmh": 6.84,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567903+00:00"
+        "direccion_viento_grados": 247.0,
+        "viento_kmh": 5.04,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824969+00:00"
       }
     },
     {
@@ -751,11 +751,11 @@
       },
       "properties": {
         "estacion": "Anchoris",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 231.0,
-        "viento_kmh": 6.12,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567906+00:00"
+        "direccion_viento_grados": 252.0,
+        "viento_kmh": 6.48,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824973+00:00"
       }
     },
     {
@@ -769,11 +769,11 @@
       },
       "properties": {
         "estacion": "Doña Paula",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 194.0,
-        "viento_kmh": 3.9600000000000004,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567909+00:00"
+        "direccion_viento_grados": 259.0,
+        "viento_kmh": 8.28,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824977+00:00"
       }
     },
     {
@@ -787,11 +787,11 @@
       },
       "properties": {
         "estacion": "Reduccion",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 227.0,
-        "viento_kmh": 10.8,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567912+00:00"
+        "direccion_viento_grados": 208.0,
+        "viento_kmh": 11.879999999999999,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824982+00:00"
       }
     },
     {
@@ -805,11 +805,11 @@
       },
       "properties": {
         "estacion": "Pareditas",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 177.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567915+00:00"
+        "direccion_viento_grados": 158.0,
+        "viento_kmh": 8.64,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824987+00:00"
       }
     },
     {
@@ -823,11 +823,11 @@
       },
       "properties": {
         "estacion": "Nueva California",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 236.0,
-        "viento_kmh": 1.4400000000000002,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567918+00:00"
+        "direccion_viento_grados": 186.0,
+        "viento_kmh": 4.680000000000001,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824991+00:00"
       }
     },
     {
@@ -841,11 +841,11 @@
       },
       "properties": {
         "estacion": "El Mirador",
-        "fecha": "30/05/2026 2:34",
+        "fecha": "30/05/2026 5:04",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 288.0,
-        "viento_kmh": 2.52,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567921+00:00"
+        "direccion_viento_grados": 282.0,
+        "viento_kmh": 3.9600000000000004,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824995+00:00"
       }
     },
     {
@@ -859,11 +859,11 @@
       },
       "properties": {
         "estacion": "Los Chacayes",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 230.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567924+00:00"
+        "direccion_viento_grados": 258.0,
+        "viento_kmh": 9.72,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.824999+00:00"
       }
     },
     {
@@ -877,11 +877,11 @@
       },
       "properties": {
         "estacion": "El Plumero",
-        "fecha": "30/05/2026 2:35",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 134.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567929+00:00"
+        "direccion_viento_grados": 148.0,
+        "viento_kmh": 2.16,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825003+00:00"
       }
     },
     {
@@ -895,11 +895,11 @@
       },
       "properties": {
         "estacion": "El Ramblon",
-        "fecha": "30/05/2026 1:48",
+        "fecha": "30/05/2026 5:05",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 123.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567932+00:00"
+        "direccion_viento_grados": 202.0,
+        "viento_kmh": 2.8800000000000003,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825007+00:00"
       }
     },
     {
@@ -913,11 +913,11 @@
       },
       "properties": {
         "estacion": "Los Chacayes (Alpasion)",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 251.0,
-        "viento_kmh": 6.48,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567935+00:00"
+        "direccion_viento_grados": 268.0,
+        "viento_kmh": 8.64,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825011+00:00"
       }
     },
     {
@@ -931,11 +931,11 @@
       },
       "properties": {
         "estacion": "Los Chacayes (Carrizalejo)",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 245.0,
-        "viento_kmh": 7.920000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567940+00:00"
+        "direccion_viento_grados": 252.0,
+        "viento_kmh": 6.84,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825017+00:00"
       }
     },
     {
@@ -949,11 +949,11 @@
       },
       "properties": {
         "estacion": "Isla Chica",
-        "fecha": "30/05/2026 2:33",
+        "fecha": "30/05/2026 5:03",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 215.0,
-        "viento_kmh": 2.8800000000000003,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567943+00:00"
+        "direccion_viento_grados": 243.0,
+        "viento_kmh": 9.360000000000001,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825021+00:00"
       }
     },
     {
@@ -967,11 +967,11 @@
       },
       "properties": {
         "estacion": "Jocoli Viejo",
-        "fecha": "30/05/2026 2:33",
+        "fecha": "30/05/2026 5:03",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 140.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567946+00:00"
+        "direccion_viento_grados": 264.0,
+        "viento_kmh": 3.6,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825025+00:00"
       }
     },
     {
@@ -985,11 +985,11 @@
       },
       "properties": {
         "estacion": "Cruz Negra",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 237.0,
-        "viento_kmh": 14.04,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567949+00:00"
+        "direccion_viento_grados": 258.0,
+        "viento_kmh": 16.56,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825029+00:00"
       }
     },
     {
@@ -1003,11 +1003,11 @@
       },
       "properties": {
         "estacion": "Cordon del Plata",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:06",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 313.0,
-        "viento_kmh": 4.32,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567952+00:00"
+        "direccion_viento_grados": 310.0,
+        "viento_kmh": 7.2,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825034+00:00"
       }
     },
     {
@@ -1021,11 +1021,11 @@
       },
       "properties": {
         "estacion": "Colonia Elena",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 260.0,
-        "viento_kmh": 3.6,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567954+00:00"
+        "direccion_viento_grados": 245.0,
+        "viento_kmh": 5.760000000000001,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825038+00:00"
       }
     },
     {
@@ -1039,11 +1039,11 @@
       },
       "properties": {
         "estacion": "Resolana",
-        "fecha": "30/05/2026 2:30",
+        "fecha": "30/05/2026 5:01",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 138.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567957+00:00"
+        "direccion_viento_grados": 95.0,
+        "viento_kmh": 1.8,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825043+00:00"
       }
     },
     {
@@ -1057,11 +1057,11 @@
       },
       "properties": {
         "estacion": "Monte Coman",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 260.0,
-        "viento_kmh": 6.84,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567960+00:00"
+        "direccion_viento_grados": 265.0,
+        "viento_kmh": 5.760000000000001,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825047+00:00"
       }
     },
     {
@@ -1075,11 +1075,11 @@
       },
       "properties": {
         "estacion": "Las Malvinas",
-        "fecha": "30/05/2026 2:31",
+        "fecha": "30/05/2026 5:02",
         "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 52.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-05-30T05:36:21.567966+00:00"
+        "direccion_viento_grados": 191.0,
+        "viento_kmh": 0.0,
+        "actualizado_geojson_utc": "2026-05-30T08:07:20.825052+00:00"
       }
     }
   ]
