@@ -12,12 +12,28 @@
         ]
       },
       "properties": {
-        "estacion": "Junin",
-        "fecha": "4/06/2026 17:15",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 67.0,
-        "viento_kmh": 1.7,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532416+00:00"
+        "Nombre": "Junin",
+        "Coordenadas": "-33.11576, -68.48448",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,8",
+        "Humedad": "92,3",
+        "Punto_de_Rocio": "13,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=junin",
+        "Direccion_del_Viento": "51",
+        "Velocidad_del_Viento": "0,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/LmN6D",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=825433005&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.11576,
+        "Longitud": -68.48448,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124526+00:00"
       }
     },
     {
@@ -30,12 +46,28 @@
         ]
       },
       "properties": {
-        "estacion": "Medrano",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 92.0,
-        "viento_kmh": 9.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532448+00:00"
+        "Nombre": "Medrano",
+        "Coordenadas": "-33.16776, -68.66254",
+        "Fecha": "4/06/2026 18:18",
+        "Temperatura": "14,9",
+        "Humedad": "90,5",
+        "Punto_de_Rocio": "12,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=medrano",
+        "Direccion_del_Viento": "111",
+        "Velocidad_del_Viento": "9,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_22rak03bjd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1378573730&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.16776,
+        "Longitud": -68.66254,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124553+00:00"
       }
     },
     {
@@ -48,12 +80,28 @@
         ]
       },
       "properties": {
-        "estacion": "Alto Verde",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 58.0,
-        "viento_kmh": 2.52,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532454+00:00"
+        "Nombre": "Alto Verde",
+        "Coordenadas": "-33.17635, -68.30445",
+        "Fecha": "4/06/2026 18:18",
+        "Temperatura": "13,2",
+        "Humedad": "93,4",
+        "Punto_de_Rocio": "11,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=altoverde",
+        "Direccion_del_Viento": "112",
+        "Velocidad_del_Viento": "2,9 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_wftom68kkd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=941863875&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.17635,
+        "Longitud": -68.30445,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124561+00:00"
       }
     },
     {
@@ -66,12 +114,28 @@
         ]
       },
       "properties": {
-        "estacion": "Santa Rosa",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 128.0,
-        "viento_kmh": 9.72,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532460+00:00"
+        "Nombre": "Santa Rosa",
+        "Coordenadas": "-33.23983, -68.19166",
+        "Fecha": "4/06/2026 18:18",
+        "Temperatura": "13,8",
+        "Humedad": "98,3",
+        "Punto_de_Rocio": "13,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=santarosa",
+        "Direccion_del_Viento": "128",
+        "Velocidad_del_Viento": "10,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_omg2of9kkd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=590773000&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.23983,
+        "Longitud": -68.19166,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124571+00:00"
       }
     },
     {
@@ -84,12 +148,28 @@
         ]
       },
       "properties": {
-        "estacion": "Campamentos",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 105.0,
-        "viento_kmh": 5.04,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532466+00:00"
+        "Nombre": "Campamentos",
+        "Coordenadas": "-33.26463, -68.44579",
+        "Fecha": "4/06/2026 18:07",
+        "Temperatura": "13,9",
+        "Humedad": "93,2",
+        "Punto_de_Rocio": "12,3 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=campamentos",
+        "Direccion_del_Viento": "112",
+        "Velocidad_del_Viento": "5,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_63o4d2lhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1940883687&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.26463,
+        "Longitud": -68.44579,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124582+00:00"
       }
     },
     {
@@ -102,12 +182,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Marcado",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 114.0,
-        "viento_kmh": 10.44,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532470+00:00"
+        "Nombre": "El Marcado",
+        "Coordenadas": "-33.09579, -68.21388",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "13,9",
+        "Humedad": "97,4",
+        "Punto_de_Rocio": "13,2 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=marcado",
+        "Direccion_del_Viento": "154",
+        "Velocidad_del_Viento": "5,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_hbm2lylhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=552850436&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.09579,
+        "Longitud": -68.21388,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124587+00:00"
       }
     },
     {
@@ -120,12 +216,28 @@
         ]
       },
       "properties": {
-        "estacion": "Tres Porteñas",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 143.0,
-        "viento_kmh": 2.8800000000000003,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532473+00:00"
+        "Nombre": "Tres Porteñas",
+        "Coordenadas": "-32.89344, -68.38836",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,7",
+        "Humedad": "27,6",
+        "Punto_de_Rocio": "-4,7 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=tresportenas",
+        "Direccion_del_Viento": "64",
+        "Velocidad_del_Viento": "2,9 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_8ea0f92yvd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=410592820&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.89344,
+        "Longitud": -68.38836,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124593+00:00"
       }
     },
     {
@@ -138,12 +250,28 @@
         ]
       },
       "properties": {
-        "estacion": "Russell",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 66.0,
-        "viento_kmh": 5.4,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532482+00:00"
+        "Nombre": "Russell",
+        "Coordenadas": "-33.01465, -68.74828",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,2",
+        "Humedad": "85,3",
+        "Punto_de_Rocio": "10,8 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=russell",
+        "Direccion_del_Viento": "38",
+        "Velocidad_del_Viento": "0,7 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_yzzr6ln0wd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=867167681&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.01465,
+        "Longitud": -68.74828,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124598+00:00"
       }
     },
     {
@@ -156,12 +284,28 @@
         ]
       },
       "properties": {
-        "estacion": "Perdriel",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 55.0,
-        "viento_kmh": 8.64,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532487+00:00"
+        "Nombre": "Perdriel",
+        "Coordenadas": "-33.1319, -68.91601",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,0",
+        "Humedad": null,
+        "Punto_de_Rocio": "10,5 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=perdriel",
+        "Direccion_del_Viento": "25",
+        "Velocidad_del_Viento": "13,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_kvl4rpn0wd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1306897260&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.1319,
+        "Longitud": -68.91601,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124604+00:00"
       }
     },
     {
@@ -174,12 +318,28 @@
         ]
       },
       "properties": {
-        "estacion": "Las Violetas",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 139.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532491+00:00"
+        "Nombre": "Las Violetas",
+        "Coordenadas": "-32.83289, -68.60047",
+        "Fecha": "4/06/2026 18:18",
+        "Temperatura": "14,2",
+        "Humedad": null,
+        "Punto_de_Rocio": "12,3 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lasvioletas",
+        "Direccion_del_Viento": "129",
+        "Velocidad_del_Viento": "0,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_lp6ivyhw0d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=894121918&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.83289,
+        "Longitud": -68.60047,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124609+00:00"
       }
     },
     {
@@ -192,12 +352,28 @@
         ]
       },
       "properties": {
-        "estacion": "Gustavo Andre",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 104.0,
-        "viento_kmh": 3.6,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532494+00:00"
+        "Nombre": "Gustavo Andre",
+        "Coordenadas": "-32.64611, -68.31388",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "14,7",
+        "Humedad": "75",
+        "Punto_de_Rocio": "10,2 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=gustavoandre",
+        "Direccion_del_Viento": "142",
+        "Velocidad_del_Viento": "4,3 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_s0eabip6vd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=696914969&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.64611,
+        "Longitud": -68.31388,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124615+00:00"
       }
     },
     {
@@ -210,12 +386,28 @@
         ]
       },
       "properties": {
-        "estacion": "Jocoli",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 131.0,
-        "viento_kmh": 6.84,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532497+00:00"
+        "Nombre": "Jocoli",
+        "Coordenadas": "-32.59714, -68.59868",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "14,8",
+        "Humedad": null,
+        "Punto_de_Rocio": "10,8 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=jocoli",
+        "Direccion_del_Viento": "131",
+        "Velocidad_del_Viento": "1,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_41nzz1gezd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=853475469&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.59714,
+        "Longitud": -68.59868,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124621+00:00"
       }
     },
     {
@@ -228,12 +420,28 @@
         ]
       },
       "properties": {
-        "estacion": "Tunuyan",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 53.0,
-        "viento_kmh": 10.08,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532500+00:00"
+        "Nombre": "Tunuyan",
+        "Coordenadas": "-33.563946, -69.039364",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,8",
+        "Humedad": "78,7",
+        "Punto_de_Rocio": "11,1 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=tunuyan",
+        "Direccion_del_Viento": "51",
+        "Velocidad_del_Viento": "13,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": null,
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=0&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.563946,
+        "Longitud": -69.039364,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124626+00:00"
       }
     },
     {
@@ -246,12 +454,28 @@
         ]
       },
       "properties": {
-        "estacion": "La Consulta",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 22.0,
-        "viento_kmh": 9.360000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532506+00:00"
+        "Nombre": "La Consulta",
+        "Coordenadas": "-33.70657, -69.07336",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,5",
+        "Humedad": "81",
+        "Punto_de_Rocio": "11,2 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=laconsulta",
+        "Direccion_del_Viento": "45",
+        "Velocidad_del_Viento": "9,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_h1ulhnmhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1529584973&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.70657,
+        "Longitud": -69.07336,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124634+00:00"
       }
     },
     {
@@ -264,12 +488,28 @@
         ]
       },
       "properties": {
-        "estacion": "Vista Flores",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 46.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532509+00:00"
+        "Nombre": "Vista Flores",
+        "Coordenadas": "-33.64461, -69.16134",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,7",
+        "Humedad": "70,6",
+        "Punto_de_Rocio": "9,4 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=vistaflores",
+        "Direccion_del_Viento": "46",
+        "Velocidad_del_Viento": "9,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": null,
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1015607938&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.64461,
+        "Longitud": -69.16134,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124639+00:00"
       }
     },
     {
@@ -282,12 +522,28 @@
         ]
       },
       "properties": {
-        "estacion": "Agua Amarga",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 70.0,
-        "viento_kmh": 7.2,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532513+00:00"
+        "Nombre": "Agua Amarga",
+        "Coordenadas": "-33.508459, -69.201884",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,9",
+        "Humedad": null,
+        "Punto_de_Rocio": "8,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=aguaamarga",
+        "Direccion_del_Viento": "63",
+        "Velocidad_del_Viento": "10,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_uqac6ukcxd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=934687695&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.508459,
+        "Longitud": -69.201884,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124644+00:00"
       }
     },
     {
@@ -300,12 +556,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Cepillo",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 29.0,
-        "viento_kmh": 3.24,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532516+00:00"
+        "Nombre": "El Cepillo",
+        "Coordenadas": "-33.80534, -69.10423",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "13,6",
+        "Humedad": "74",
+        "Punto_de_Rocio": "9,0 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elcepillo",
+        "Direccion_del_Viento": "101",
+        "Velocidad_del_Viento": "9,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_89deb7mhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=885595981&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.80534,
+        "Longitud": -69.10423,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124649+00:00"
       }
     },
     {
@@ -318,12 +590,28 @@
         ]
       },
       "properties": {
-        "estacion": "La Llave",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.75,
-        "direccion_viento_grados": 106.0,
-        "viento_kmh": 3.6,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532519+00:00"
+        "Nombre": "La Llave",
+        "Coordenadas": "-34.64713, -68.01537",
+        "Fecha": "4/06/2026 18:22",
+        "Temperatura": "12,1",
+        "Humedad": "98,6",
+        "Punto_de_Rocio": "11,9 °c",
+        "Precipitacion": "0,75 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lalllave",
+        "Direccion_del_Viento": "143",
+        "Velocidad_del_Viento": "5,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_ktv29i9kkd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=0&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.64713,
+        "Longitud": -68.01537,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124655+00:00"
       }
     },
     {
@@ -336,12 +624,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Cerrito",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.75,
-        "direccion_viento_grados": 132.0,
-        "viento_kmh": 0.36000000000000004,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532522+00:00"
+        "Nombre": "El Cerrito",
+        "Coordenadas": "-34.51027, -68.28583",
+        "Fecha": "4/06/2026 18:16",
+        "Temperatura": "11,6",
+        "Humedad": "97,6",
+        "Punto_de_Rocio": "11,2 °c",
+        "Precipitacion": "0,75 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elcerrito",
+        "Direccion_del_Viento": "153",
+        "Velocidad_del_Viento": "1,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_uc9z82ohqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=981574807&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.51027,
+        "Longitud": -68.28583,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124660+00:00"
       }
     },
     {
@@ -354,12 +658,28 @@
         ]
       },
       "properties": {
-        "estacion": "Bowen",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 144.0,
-        "viento_kmh": 7.920000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532527+00:00"
+        "Nombre": "Bowen",
+        "Coordenadas": "-34.98214, -67.51555",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,1",
+        "Humedad": null,
+        "Punto_de_Rocio": "11,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=bowen",
+        "Direccion_del_Viento": "124",
+        "Velocidad_del_Viento": "5,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_vie5vun0wd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1529584973&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.98214,
+        "Longitud": -67.51555,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124668+00:00"
       }
     },
     {
@@ -372,12 +692,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Ceibo",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.25,
-        "direccion_viento_grados": 171.0,
-        "viento_kmh": 12.96,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532532+00:00"
+        "Nombre": "El Ceibo",
+        "Coordenadas": "-34.91472, -67.59527",
+        "Fecha": "4/06/2026 18:22",
+        "Temperatura": "12,1",
+        "Humedad": "98,5",
+        "Punto_de_Rocio": "11,9 °c",
+        "Precipitacion": "0,25 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elceibo",
+        "Direccion_del_Viento": "169",
+        "Velocidad_del_Viento": "7,2 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_31sotrphqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1015607938&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.91472,
+        "Longitud": -67.59527,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124673+00:00"
       }
     },
     {
@@ -390,12 +726,28 @@
         ]
       },
       "properties": {
-        "estacion": "Palermo Chico",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 139.0,
-        "viento_kmh": 3.24,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532536+00:00"
+        "Nombre": "Palermo Chico",
+        "Coordenadas": "-34.87194, -67.72277",
+        "Fecha": "4/06/2026 18:22",
+        "Temperatura": "11,0",
+        "Humedad": "97,6",
+        "Punto_de_Rocio": "10,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=palermochico",
+        "Direccion_del_Viento": "134",
+        "Velocidad_del_Viento": "3,6 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_b7xql9ohqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=934687695&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.87194,
+        "Longitud": -67.72277,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124678+00:00"
       }
     },
     {
@@ -408,12 +760,28 @@
         ]
       },
       "properties": {
-        "estacion": "Cuadro Benegas",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.75,
-        "direccion_viento_grados": 94.0,
-        "viento_kmh": 1.8,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532539+00:00"
+        "Nombre": "Cuadro Benegas",
+        "Coordenadas": "-34.64142, -68.46981",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "11,9",
+        "Humedad": "98,1",
+        "Punto_de_Rocio": "11,6 °c",
+        "Precipitacion": "0,75 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=cuadrobenegas",
+        "Direccion_del_Viento": "143",
+        "Velocidad_del_Viento": "0,7 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_4indpyn6sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1384831851&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.64142,
+        "Longitud": -68.46981,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124683+00:00"
       }
     },
     {
@@ -426,12 +794,28 @@
         ]
       },
       "properties": {
-        "estacion": "Las Paredes",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 1.5,
-        "direccion_viento_grados": 74.0,
-        "viento_kmh": 1.4400000000000002,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532542+00:00"
+        "Nombre": "Las Paredes",
+        "Coordenadas": "-34.53346, -68.4234",
+        "Fecha": "4/06/2026 18:15",
+        "Temperatura": "11,3",
+        "Humedad": "98,1",
+        "Punto_de_Rocio": "11,0 °c",
+        "Precipitacion": "1,50 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lasparedes",
+        "Direccion_del_Viento": "169",
+        "Velocidad_del_Viento": "2,9 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_ml8z3xphqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1927766814&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.53346,
+        "Longitud": -68.4234,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124689+00:00"
       }
     },
     {
@@ -444,12 +828,28 @@
         ]
       },
       "properties": {
-        "estacion": "Villa Atuel",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 170.0,
-        "viento_kmh": 5.04,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532545+00:00"
+        "Nombre": "Villa Atuel",
+        "Coordenadas": "-34.8327, -67.89835",
+        "Fecha": "4/06/2026 18:22",
+        "Temperatura": "11,6",
+        "Humedad": "97,6",
+        "Punto_de_Rocio": "11,2 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=villaatuel",
+        "Direccion_del_Viento": "158",
+        "Velocidad_del_Viento": "5,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_gow406ohqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1255335861&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.8327,
+        "Longitud": -67.89835,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124694+00:00"
       }
     },
     {
@@ -462,12 +862,28 @@
         ]
       },
       "properties": {
-        "estacion": "La Escandinava",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 1.75,
-        "direccion_viento_grados": 100.0,
-        "viento_kmh": 5.04,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532548+00:00"
+        "Nombre": "La Escandinava",
+        "Coordenadas": "-34.93222, -67.42999",
+        "Fecha": "4/06/2026 18:22",
+        "Temperatura": "12,1",
+        "Humedad": "98,7",
+        "Punto_de_Rocio": "11,9 °c",
+        "Precipitacion": "1,75 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=laescandinava",
+        "Direccion_del_Viento": "160",
+        "Velocidad_del_Viento": "4,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_ez11fwphqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=945278199&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.93222,
+        "Longitud": -67.42999,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124699+00:00"
       }
     },
     {
@@ -480,12 +896,28 @@
         ]
       },
       "properties": {
-        "estacion": "La Marzolina",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 157.0,
-        "viento_kmh": 2.8800000000000003,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532553+00:00"
+        "Nombre": "La Marzolina",
+        "Coordenadas": "-34.99722, -67.63277",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "11,0",
+        "Humedad": "50,6",
+        "Punto_de_Rocio": "1,1 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lamarzolina",
+        "Direccion_del_Viento": "184",
+        "Velocidad_del_Viento": "5,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_tj7fc0n6sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1933723527&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.99722,
+        "Longitud": -67.63277,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124707+00:00"
       }
     },
     {
@@ -498,12 +930,28 @@
         ]
       },
       "properties": {
-        "estacion": "San Martin",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 86.0,
-        "viento_kmh": 3.9600000000000004,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532560+00:00"
+        "Nombre": "San Martin",
+        "Coordenadas": "-33.072353, -68.464505",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "14,5",
+        "Humedad": "85,1",
+        "Punto_de_Rocio": "11,7 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=sanmartin",
+        "Direccion_del_Viento": "90",
+        "Velocidad_del_Viento": "6,5 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_e5a8gtlhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1700345372&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.072353,
+        "Longitud": -68.464505,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124712+00:00"
       }
     },
     {
@@ -516,12 +964,28 @@
         ]
       },
       "properties": {
-        "estacion": "Colonia las Rosas",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 46.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532563+00:00"
+        "Nombre": "Colonia las Rosas",
+        "Coordenadas": "-33.61922, -69.10838",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,7",
+        "Humedad": "70,6",
+        "Punto_de_Rocio": "9,4 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=colonialasrosas",
+        "Direccion_del_Viento": "46",
+        "Velocidad_del_Viento": "9,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_mm74s6l6pd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=709552682&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.61922,
+        "Longitud": -69.10838,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124720+00:00"
       }
     },
     {
@@ -534,12 +998,28 @@
         ]
       },
       "properties": {
-        "estacion": "Dubois",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 66.0,
-        "viento_kmh": 12.6,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532566+00:00"
+        "Nombre": "Dubois",
+        "Coordenadas": "-33.43319, -69.04251",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "13,7",
+        "Humedad": "73,5",
+        "Punto_de_Rocio": "9,0 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=dubois",
+        "Direccion_del_Viento": "60",
+        "Velocidad_del_Viento": "18,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_4qnfmdm6pd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=428487747&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.43319,
+        "Longitud": -69.04251,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124726+00:00"
       }
     },
     {
@@ -552,12 +1032,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Peral",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 51.0,
-        "viento_kmh": 10.08,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532569+00:00"
+        "Nombre": "El Peral",
+        "Coordenadas": "-33.34669, -69.15766",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,5",
+        "Humedad": "78,8",
+        "Punto_de_Rocio": "8,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elperal",
+        "Direccion_del_Viento": "346",
+        "Velocidad_del_Viento": "8,6 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_7gaprfmhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=930117608&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.34669,
+        "Longitud": -69.15766,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124731+00:00"
       }
     },
     {
@@ -570,12 +1066,28 @@
         ]
       },
       "properties": {
-        "estacion": "Salentein",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 53.0,
-        "viento_kmh": 10.08,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532572+00:00"
+        "Nombre": "Salentein",
+        "Coordenadas": "-33.51461, -69.00188",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,8",
+        "Humedad": "78,7",
+        "Punto_de_Rocio": "11,1 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=salentein",
+        "Direccion_del_Viento": "51",
+        "Velocidad_del_Viento": "13,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_azejpimhqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=705838184&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.51461,
+        "Longitud": -69.00188,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124736+00:00"
       }
     },
     {
@@ -588,12 +1100,28 @@
         ]
       },
       "properties": {
-        "estacion": "Bowen (Escartin)",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 175.0,
-        "viento_kmh": 4.32,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532575+00:00"
+        "Nombre": "Bowen (Escartin)",
+        "Coordenadas": "-35.01066, -67.55712",
+        "Fecha": "4/06/2026 18:22",
+        "Temperatura": "11,1",
+        "Humedad": "50,6",
+        "Punto_de_Rocio": "1,2 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=bowenescartin",
+        "Direccion_del_Viento": "184",
+        "Velocidad_del_Viento": "2,2 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_1pkiptphqd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=231594073&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -35.01066,
+        "Longitud": -67.55712,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124742+00:00"
       }
     },
     {
@@ -606,12 +1134,28 @@
         ]
       },
       "properties": {
-        "estacion": "Carrizal",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 50.0,
-        "viento_kmh": 3.6,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532578+00:00"
+        "Nombre": "Carrizal",
+        "Coordenadas": "-33.307417, -68.714465",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "13,8",
+        "Humedad": "89,3",
+        "Punto_de_Rocio": "11,3 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=carrizal",
+        "Direccion_del_Viento": "74",
+        "Velocidad_del_Viento": "3,6 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_yw8h5mm4sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=85897335&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.307417,
+        "Longitud": -68.714465,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124747+00:00"
       }
     },
     {
@@ -624,12 +1168,28 @@
         ]
       },
       "properties": {
-        "estacion": "La Correina",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 2.5,
-        "direccion_viento_grados": 50.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532581+00:00"
+        "Nombre": "La Correina",
+        "Coordenadas": "-34.739191, -68.313515",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "11,8",
+        "Humedad": "97,9",
+        "Punto_de_Rocio": "11,5 °c",
+        "Precipitacion": "2,50 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lacorreina",
+        "Direccion_del_Viento": "86",
+        "Velocidad_del_Viento": "2,9 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_y4jyizn6sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1551953771&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.739191,
+        "Longitud": -68.313515,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124755+00:00"
       }
     },
     {
@@ -642,12 +1202,28 @@
         ]
       },
       "properties": {
-        "estacion": "Las Catitas",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.5,
-        "direccion_viento_grados": 169.0,
-        "viento_kmh": 9.360000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532586+00:00"
+        "Nombre": "Las Catitas",
+        "Coordenadas": "-33.392334, -68.092490",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "12,5",
+        "Humedad": "98,8",
+        "Punto_de_Rocio": "12,3 °c",
+        "Precipitacion": "0,50 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lascatitas",
+        "Direccion_del_Viento": "182",
+        "Velocidad_del_Viento": "6,5 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_t9wyg2n5sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=2055996082&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.392334,
+        "Longitud": -68.09249,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124763+00:00"
       }
     },
     {
@@ -660,12 +1236,28 @@
         ]
       },
       "properties": {
-        "estacion": "La Dormida",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 155.0,
-        "viento_kmh": 5.4,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532589+00:00"
+        "Nombre": "La Dormida",
+        "Coordenadas": "-33.3881, -67.85475",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "12,0",
+        "Humedad": "98,2",
+        "Punto_de_Rocio": "11,7 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=ladormida",
+        "Direccion_del_Viento": "111",
+        "Velocidad_del_Viento": "1,1 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_zxthd6n5sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1875116345&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.3881,
+        "Longitud": -67.85475,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124768+00:00"
       }
     },
     {
@@ -678,12 +1270,28 @@
         ]
       },
       "properties": {
-        "estacion": "Casas Viejas",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 113.0,
-        "viento_kmh": 14.4,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532598+00:00"
+        "Nombre": "Casas Viejas",
+        "Coordenadas": "-33.87868, -69.03688",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,6",
+        "Humedad": "92,6",
+        "Punto_de_Rocio": "11,4 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=casasviejas",
+        "Direccion_del_Viento": "83",
+        "Velocidad_del_Viento": "5,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_6sysjco6sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=696509580&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.87868,
+        "Longitud": -69.03688,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124774+00:00"
       }
     },
     {
@@ -696,12 +1304,28 @@
         ]
       },
       "properties": {
-        "estacion": "Lambare",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 105.0,
-        "viento_kmh": 7.5600000000000005,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532600+00:00"
+        "Nombre": "Lambare",
+        "Coordenadas": "-33.015244, -68.306722",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "13,7",
+        "Humedad": "90,9",
+        "Punto_de_Rocio": "12,2 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lambare",
+        "Direccion_del_Viento": "108",
+        "Velocidad_del_Viento": "11,2 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_yffx5ao5sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1815920711&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.015244,
+        "Longitud": -68.306722,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124780+00:00"
       }
     },
     {
@@ -714,12 +1338,28 @@
         ]
       },
       "properties": {
-        "estacion": "Los Alamos",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 115.0,
-        "viento_kmh": 1.4400000000000002,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532605+00:00"
+        "Nombre": "Los Alamos",
+        "Coordenadas": "-32.96841, -68.56358",
+        "Fecha": "4/06/2026 18:19",
+        "Temperatura": "14,9",
+        "Humedad": "97,9",
+        "Punto_de_Rocio": "14,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=losalamos",
+        "Direccion_del_Viento": "103",
+        "Velocidad_del_Viento": "4,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_4io7cfo5sd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=998769565&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.96841,
+        "Longitud": -68.56358,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124785+00:00"
       }
     },
     {
@@ -732,12 +1372,28 @@
         ]
       },
       "properties": {
-        "estacion": "Goudge",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.5,
-        "direccion_viento_grados": 126.0,
-        "viento_kmh": 5.04,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532608+00:00"
+        "Nombre": "Goudge",
+        "Coordenadas": "-34.687674, -68.154125",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,3",
+        "Humedad": "999,9",
+        "Punto_de_Rocio": "53,1 °c",
+        "Precipitacion": "0,50 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=goudge",
+        "Direccion_del_Viento": "112",
+        "Velocidad_del_Viento": "5,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_0m24dsdaud",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=920985086&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.687674,
+        "Longitud": -68.154125,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124793+00:00"
       }
     },
     {
@@ -750,12 +1406,28 @@
         ]
       },
       "properties": {
-        "estacion": "Anchoris",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 40.0,
-        "viento_kmh": 9.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532613+00:00"
+        "Nombre": "Anchoris",
+        "Coordenadas": "-33.319999, -68.916980",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,4",
+        "Humedad": "81,8",
+        "Punto_de_Rocio": "10,3 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=anchoris",
+        "Direccion_del_Viento": "49",
+        "Velocidad_del_Viento": "9,7 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_58r3l77fvd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1325564504&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.319999,
+        "Longitud": -68.91698,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124799+00:00"
       }
     },
     {
@@ -768,12 +1440,28 @@
         ]
       },
       "properties": {
-        "estacion": "Doña Paula",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 30.0,
-        "viento_kmh": 9.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532616+00:00"
+        "Nombre": "Doña Paula",
+        "Coordenadas": "-33.25305, -68.96251",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "12,3",
+        "Humedad": "84",
+        "Punto_de_Rocio": "9,7 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=donapaula",
+        "Direccion_del_Viento": "29",
+        "Velocidad_del_Viento": "9,7 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_osrk477fvd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=2069219791&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.25305,
+        "Longitud": -68.96251,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124805+00:00"
       }
     },
     {
@@ -786,12 +1474,28 @@
         ]
       },
       "properties": {
-        "estacion": "Reduccion",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 78.0,
-        "viento_kmh": 7.920000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532619+00:00"
+        "Nombre": "Reduccion",
+        "Coordenadas": "-33.205193, -68.598308",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,1",
+        "Humedad": "92,7",
+        "Punto_de_Rocio": "11,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=reduccion",
+        "Direccion_del_Viento": "94",
+        "Velocidad_del_Viento": "8,3 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_26u5otq6vd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=374540846&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.205193,
+        "Longitud": -68.598308,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124810+00:00"
       }
     },
     {
@@ -804,12 +1508,28 @@
         ]
       },
       "properties": {
-        "estacion": "Pareditas",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 122.0,
-        "viento_kmh": 6.84,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532622+00:00"
+        "Nombre": "Pareditas",
+        "Coordenadas": "-33.96004, -69.07936",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "12,3",
+        "Humedad": "90",
+        "Punto_de_Rocio": "10,7 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=pareditas",
+        "Direccion_del_Viento": "113",
+        "Velocidad_del_Viento": "7,9 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_8md7alovvd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1188976703&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.96004,
+        "Longitud": -69.07936,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124815+00:00"
       }
     },
     {
@@ -822,12 +1542,28 @@
         ]
       },
       "properties": {
-        "estacion": "Nueva California",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 158.0,
-        "viento_kmh": 6.48,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532625+00:00"
+        "Nombre": "Nueva California",
+        "Coordenadas": "-32.74771, -68.32965",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "14,6",
+        "Humedad": "92,9",
+        "Punto_de_Rocio": "13,5 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=nuevacalifornia",
+        "Direccion_del_Viento": "121",
+        "Velocidad_del_Viento": "6,1 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_mfac10p6vd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1314929743&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.74771,
+        "Longitud": -68.32965,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124820+00:00"
       }
     },
     {
@@ -840,12 +1576,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Mirador",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 220.0,
-        "viento_kmh": 5.760000000000001,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532628+00:00"
+        "Nombre": "El Mirador",
+        "Coordenadas": "-33.332741, -68.338421",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "12,8",
+        "Humedad": "95,1",
+        "Punto_de_Rocio": "12,0 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elmirador",
+        "Direccion_del_Viento": "166",
+        "Velocidad_del_Viento": "10,1 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/u/0/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_pcv45o77vd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=596927444&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.332741,
+        "Longitud": -68.338421,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124825+00:00"
       }
     },
     {
@@ -858,12 +1610,28 @@
         ]
       },
       "properties": {
-        "estacion": "Los Chacayes",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 126.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532630+00:00"
+        "Nombre": "Los Chacayes",
+        "Coordenadas": "-33.612216, -69.204271",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "14,8",
+        "Humedad": "65,5",
+        "Punto_de_Rocio": "8,4 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=loschacayes",
+        "Direccion_del_Viento": "59",
+        "Velocidad_del_Viento": "5,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_1ee1kukcxd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=694054457&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.612216,
+        "Longitud": -69.204271,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124831+00:00"
       }
     },
     {
@@ -876,12 +1644,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Plumero",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 187.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532682+00:00"
+        "Nombre": "El Plumero",
+        "Coordenadas": "-32.71372, -68.48006",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "14,5",
+        "Humedad": "999,9",
+        "Punto_de_Rocio": "55,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elplumero",
+        "Direccion_del_Viento": "147",
+        "Velocidad_del_Viento": "0,0 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_0qzxochezd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=481175118&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.71372,
+        "Longitud": -68.48006,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124836+00:00"
       }
     },
     {
@@ -894,12 +1678,28 @@
         ]
       },
       "properties": {
-        "estacion": "El Ramblon",
-        "fecha": "4/06/2026 17:19",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 148.0,
-        "viento_kmh": 7.5600000000000005,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532685+00:00"
+        "Nombre": "El Ramblon",
+        "Coordenadas": "-33.09866, -68.30687",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "13,2",
+        "Humedad": "91,6",
+        "Punto_de_Rocio": "11,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elramblon",
+        "Direccion_del_Viento": "112",
+        "Velocidad_del_Viento": "9,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_0vso2ehezd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1254232953&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.09866,
+        "Longitud": -68.30687,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124841+00:00"
       }
     },
     {
@@ -912,12 +1712,28 @@
         ]
       },
       "properties": {
-        "estacion": "Los Chacayes (Alpasion)",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 22.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532688+00:00"
+        "Nombre": "Los Chacayes (Alpasion)",
+        "Coordenadas": "-33.60837, -69.27995",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "12,3",
+        "Humedad": "64,4",
+        "Punto_de_Rocio": "5,8 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=loschacayesalpasion",
+        "Direccion_del_Viento": "134",
+        "Velocidad_del_Viento": "0,4 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_hz047ihezd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=2036296274&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.60837,
+        "Longitud": -69.27995,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124846+00:00"
       }
     },
     {
@@ -930,12 +1746,28 @@
         ]
       },
       "properties": {
-        "estacion": "Los Chacayes (Carrizalejo)",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 250.0,
-        "viento_kmh": 0.0,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532693+00:00"
+        "Nombre": "Los Chacayes (Carrizalejo)",
+        "Coordenadas": "-33.604885, -69.329050",
+        "Fecha": "4/06/2026 18:20",
+        "Temperatura": "10,6",
+        "Humedad": "82",
+        "Punto_de_Rocio": "7,6 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=loschacayescarrizalejo",
+        "Direccion_del_Viento": "71",
+        "Velocidad_del_Viento": "3,2 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_e5be2nhezd",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=768033530&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.604885,
+        "Longitud": -69.32905,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124854+00:00"
       }
     },
     {
@@ -948,12 +1780,28 @@
         ]
       },
       "properties": {
-        "estacion": "Isla Chica",
-        "fecha": "4/06/2026 17:23",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 88.0,
-        "viento_kmh": 6.48,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532696+00:00"
+        "Nombre": "Isla Chica",
+        "Coordenadas": "-33.062661, -68.658793",
+        "Fecha": "4/06/2026 18:23",
+        "Temperatura": "13,8",
+        "Humedad": "82,7",
+        "Punto_de_Rocio": "10,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=islachica",
+        "Direccion_del_Viento": "119",
+        "Velocidad_del_Viento": "5,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_77qoipiw0d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRI7SiiCPN7rqmnH94KC2RF3vtKqOO9ErCBB9xzrtZEQWA7J4zBUabI7tlQbCI4yjMGf2miEm4mfktV/pubhtml?gid=1700345372&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.062661,
+        "Longitud": -68.658793,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124862+00:00"
       }
     },
     {
@@ -966,12 +1814,28 @@
         ]
       },
       "properties": {
-        "estacion": "Jocoli Viejo",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 140.0,
-        "viento_kmh": 4.32,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532701+00:00"
+        "Nombre": "Jocoli Viejo",
+        "Coordenadas": "-32.72044, -68.67884",
+        "Fecha": "4/06/2026 18:23",
+        "Temperatura": "14,3",
+        "Humedad": "86,2",
+        "Punto_de_Rocio": "12,0 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=jocoliviejo",
+        "Direccion_del_Viento": "135",
+        "Velocidad_del_Viento": "0,7 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_utbnftiw0d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRI7SiiCPN7rqmnH94KC2RF3vtKqOO9ErCBB9xzrtZEQWA7J4zBUabI7tlQbCI4yjMGf2miEm4mfktV/pubhtml?gid=825433005&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -32.72044,
+        "Longitud": -68.67884,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124867+00:00"
       }
     },
     {
@@ -984,12 +1848,28 @@
         ]
       },
       "properties": {
-        "estacion": "Cruz Negra",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 59.0,
-        "viento_kmh": 17.64,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532704+00:00"
+        "Nombre": "Cruz Negra",
+        "Coordenadas": "-33.443666, -68.965366",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "14,5",
+        "Humedad": "74",
+        "Punto_de_Rocio": "9,9 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=cruznegra",
+        "Direccion_del_Viento": "49",
+        "Velocidad_del_Viento": "11,2 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_qikjjx3f3d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=337841247&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.443666,
+        "Longitud": -68.965366,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124872+00:00"
       }
     },
     {
@@ -1002,12 +1882,28 @@
         ]
       },
       "properties": {
-        "estacion": "Cordon del Plata",
-        "fecha": "4/06/2026 17:20",
-        "precipitacion_mm": 0.0,
-        "direccion_viento_grados": 52.0,
-        "viento_kmh": 12.96,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532707+00:00"
+        "Nombre": "Cordon del Plata",
+        "Coordenadas": "-33.423616, -69.133912",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "13,4",
+        "Humedad": "79,9",
+        "Punto_de_Rocio": "10,0 °c",
+        "Precipitacion": "0,00 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=cordondelplata",
+        "Direccion_del_Viento": "49",
+        "Velocidad_del_Viento": "15,1 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_or2th13f3d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1680678841&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -33.423616,
+        "Longitud": -69.133912,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124877+00:00"
       }
     },
     {
@@ -1020,12 +1916,28 @@
         ]
       },
       "properties": {
-        "estacion": "Colonia Elena",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.25,
-        "direccion_viento_grados": 123.0,
-        "viento_kmh": 2.16,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532710+00:00"
+        "Nombre": "Colonia Elena",
+        "Coordenadas": "-34.566594, -68.008373",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,0",
+        "Humedad": "999,9",
+        "Punto_de_Rocio": "52,7 °c",
+        "Precipitacion": "0,25 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=coloniaelena",
+        "Direccion_del_Viento": "128",
+        "Velocidad_del_Viento": "5,8 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_8vkld83f3d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1380462189&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.566594,
+        "Longitud": -68.008373,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124883+00:00"
       }
     },
     {
@@ -1038,12 +1950,28 @@
         ]
       },
       "properties": {
-        "estacion": "Resolana",
-        "fecha": "4/06/2026 17:22",
-        "precipitacion_mm": 0.25,
-        "direccion_viento_grados": 322.0,
-        "viento_kmh": 2.8800000000000003,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532715+00:00"
+        "Nombre": "Resolana",
+        "Coordenadas": "-34.530612, -68.101400",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,3",
+        "Humedad": "98,3",
+        "Punto_de_Rocio": "12,0 °c",
+        "Precipitacion": "0,25 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=resolana",
+        "Direccion_del_Viento": "21",
+        "Velocidad_del_Viento": "3,2 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_u300ne4f3d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1700196976&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.530612,
+        "Longitud": -68.1014,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124888+00:00"
       }
     },
     {
@@ -1056,12 +1984,28 @@
         ]
       },
       "properties": {
-        "estacion": "Monte Coman",
-        "fecha": "4/06/2026 17:21",
-        "precipitacion_mm": 0.25,
-        "direccion_viento_grados": 177.0,
-        "viento_kmh": 3.9600000000000004,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532718+00:00"
+        "Nombre": "Monte Coman",
+        "Coordenadas": "-34.568597, -67.861878",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "11,5",
+        "Humedad": "97,8",
+        "Punto_de_Rocio": "11,2 °c",
+        "Precipitacion": "0,25 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=montecoman",
+        "Direccion_del_Viento": "174",
+        "Velocidad_del_Viento": "7,9 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_7zwtlg4f3d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=723049301&single=true",
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.568597,
+        "Longitud": -67.861878,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124894+00:00"
       }
     },
     {
@@ -1074,12 +2018,28 @@
         ]
       },
       "properties": {
-        "estacion": "Las Malvinas",
-        "fecha": "4/06/2026 17:23",
-        "precipitacion_mm": 0.25,
-        "direccion_viento_grados": 100.0,
-        "viento_kmh": 3.9600000000000004,
-        "actualizado_geojson_utc": "2026-06-04T20:24:11.532723+00:00"
+        "Nombre": "Las Malvinas",
+        "Coordenadas": "-34.828069, -68.251130",
+        "Fecha": "4/06/2026 18:21",
+        "Temperatura": "12,7",
+        "Humedad": "98,3",
+        "Punto_de_Rocio": "12,4 °c",
+        "Precipitacion": "0,25 mm",
+        "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lasmalvinas",
+        "Direccion_del_Viento": "119",
+        "Velocidad_del_Viento": "1,1 km/h",
+        "Hola_Mojada": null,
+        "Radiacion": null,
+        "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_r3ef6k4f3d",
+        "Alertas": null,
+        "campo_14": null,
+        "campo_15": null,
+        "campo_16": null,
+        "campo_17": null,
+        "campo_18": null,
+        "Latitud": -34.828069,
+        "Longitud": -68.25113,
+        "actualizacion_geojson_utc": "2026-06-04T21:23:59.124903+00:00"
       }
     }
   ]
