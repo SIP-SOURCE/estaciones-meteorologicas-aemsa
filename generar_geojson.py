@@ -1,5 +1,6 @@
 import json
 import re
+import unicodedata
 from datetime import datetime, timezone
 
 import requests
@@ -10,41 +11,86 @@ SALIDA = "estaciones_meteorologicas.geojson"
 
 
 def extraer_json_gviz(texto):
-    match = re.search(r"google\.visualization\.Query\.setResponse\((.*)\);?", texto, re.DOTALL)
+    match = re.search(
+        r"google\.visualization\.Query\.setResponse\((.*)\);?",
+        texto,
+        re.DOTALL
+    )
     if not match:
-        raise ValueError("No se pudo interpretar la respuesta GViz de Google Sheets.")
+        raise ValueError("No se pudo interpretar la respuesta GViz.")
     return json.loads(match.group(1))
 
 
-def valor(row, idx, campo="v"):
-    try:
-        celda = row["c"][idx]
-        if celda is None:
-            return None
-        return celda.get(campo)
-    except Exception:
+def limpiar_nombre_campo(nombre):
+    if not nombre:
+        return "campo"
+
+    nombre = str(nombre).strip()
+    nombre = unicodedata.normalize("NFKD", nombre)
+    nombre = "".join(c for c in nombre if not unicodedata.combining(c))
+    nombre = re.sub(r"[^A-Za-z0-9_]+", "_", nombre)
+    nombre = re.sub(r"_+", "_", nombre).strip("_")
+
+    if not nombre:
+        nombre = "campo"
+
+    if nombre[0].isdigit():
+        nombre = f"campo_{nombre}"
+
+    return nombre
+
+
+def obtener_valor(celda):
+    if celda is None:
         return None
+
+    if "f" in celda:
+        return celda["f"]
+
+    return celda.get("v")
 
 
 def main():
-    print("Descargando Google Sheet...")
+    print("Descargando datos...")
+
     r = requests.get(URL, timeout=30)
     r.raise_for_status()
 
     data = extraer_json_gviz(r.text)
+
+    columnas_originales = data["table"]["cols"]
     rows = data["table"]["rows"]
+
+    columnas = []
+
+    for i, col in enumerate(columnas_originales):
+        label = col.get("label") or f"campo_{i}"
+        campo_limpio = limpiar_nombre_campo(label)
+
+        if campo_limpio in columnas:
+            campo_limpio = f"{campo_limpio}_{i}"
+
+        columnas.append(campo_limpio)
 
     features = []
 
     for row in rows:
-        nombre = valor(row, 0, "v")
-        coords_text = valor(row, 1, "v")
+        atributos = {}
 
-        if not nombre or not coords_text:
+        for idx, campo in enumerate(columnas):
+            try:
+                celda = row["c"][idx]
+                atributos[campo] = obtener_valor(celda)
+            except Exception:
+                atributos[campo] = None
+
+        coords = atributos.get("Coordenadas")
+
+        if not coords:
             continue
 
         try:
-            lat_txt, lon_txt = str(coords_text).split(",")
+            lat_txt, lon_txt = str(coords).split(",")
             lat = float(lat_txt.strip())
             lon = float(lon_txt.strip())
         except Exception:
@@ -53,10 +99,9 @@ def main():
         if lat == 0 or lon == 0:
             continue
 
-        fecha = valor(row, 2, "f") or valor(row, 2, "v")
-        precipitacion = valor(row, 6, "v")
-        direccion = valor(row, 8, "v")
-        viento = valor(row, 9, "v")
+        atributos["Latitud"] = lat
+        atributos["Longitud"] = lon
+        atributos["actualizacion_geojson_utc"] = datetime.now(timezone.utc).isoformat()
 
         feature = {
             "type": "Feature",
@@ -64,14 +109,7 @@ def main():
                 "type": "Point",
                 "coordinates": [lon, lat]
             },
-            "properties": {
-                "estacion": nombre,
-                "fecha": fecha,
-                "precipitacion_mm": precipitacion,
-                "direccion_viento_grados": direccion,
-                "viento_kmh": viento,
-                "actualizado_geojson_utc": datetime.now(timezone.utc).isoformat()
-            }
+            "properties": atributos
         }
 
         features.append(feature)
@@ -85,8 +123,9 @@ def main():
     with open(SALIDA, "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False, indent=2)
 
-    print(f"GeoJSON generado: {SALIDA}")
-    print(f"Total estaciones: {len(features)}")
+    print("GeoJSON generado:", SALIDA)
+    print("Total estaciones:", len(features))
+    print("Campos exportados:", columnas)
 
 
 if __name__ == "__main__":
