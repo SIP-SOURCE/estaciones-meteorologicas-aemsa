@@ -14,13 +14,13 @@
       "properties": {
         "Nombre": "Junin",
         "Coordenadas": "-33.11576, -68.48448",
-        "Fecha": "7/06/2026 3:41",
+        "Fecha": "7/06/2026 6:51",
         "Temperatura": "12,1",
         "Humedad": "98,6",
         "Punto_de_Rocio": "11,9 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=junin",
-        "Direccion_del_Viento": "147",
+        "Direccion_del_Viento": "177",
         "Velocidad_del_Viento": "1,1 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/LmN6D",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=825433005&single=true",
@@ -28,11 +28,11 @@
         "Humedad_num": 98.6,
         "Punto_de_Rocio_num": 11.9,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 147.0,
+        "Direccion_del_Viento_num": 177.0,
         "Velocidad_del_Viento_kmh_num": 1.1,
         "Latitud": -33.11576,
         "Longitud": -68.48448,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671130+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880718+00:00"
       }
     },
     {
@@ -65,7 +65,7 @@
         "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -33.16776,
         "Longitud": -68.66254,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671167+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880754+00:00"
       }
     },
     {
@@ -80,25 +80,25 @@
       "properties": {
         "Nombre": "Alto Verde",
         "Coordenadas": "-33.17635, -68.30445",
-        "Fecha": "7/06/2026 3:48",
-        "Temperatura": "10,8",
-        "Humedad": "97,4",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "11,3",
+        "Humedad": "97,5",
         "Punto_de_Rocio": "11,2 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=altoverde",
-        "Direccion_del_Viento": "198",
-        "Velocidad_del_Viento": "0,0 km/h",
+        "Direccion_del_Viento": "150",
+        "Velocidad_del_Viento": "6,1 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_wftom68kkd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=941863875&single=true",
-        "Temperatura_num": 10.8,
-        "Humedad_num": 97.4,
+        "Temperatura_num": 11.3,
+        "Humedad_num": 97.5,
         "Punto_de_Rocio_num": 11.2,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 198.0,
-        "Velocidad_del_Viento_kmh_num": 0.0,
+        "Direccion_del_Viento_num": 150.0,
+        "Velocidad_del_Viento_kmh_num": 6.1,
         "Latitud": -33.17635,
         "Longitud": -68.30445,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671179+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880765+00:00"
       }
     },
     {
@@ -131,7 +131,7 @@
         "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -33.23983,
         "Longitud": -68.19166,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671189+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880775+00:00"
       }
     },
     {
@@ -164,7 +164,7 @@
         "Velocidad_del_Viento_kmh_num": 1.4,
         "Latitud": -33.26463,
         "Longitud": -68.44579,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671200+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880785+00:00"
       }
     },
     {
@@ -197,7 +197,7 @@
         "Velocidad_del_Viento_kmh_num": 1.8,
         "Latitud": -33.09579,
         "Longitud": -68.21388,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671209+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880794+00:00"
       }
     },
     {
@@ -212,25 +212,25 @@
       "properties": {
         "Nombre": "Tres Porteñas",
         "Coordenadas": "-32.89344, -68.38836",
-        "Fecha": "7/06/2026 3:45",
-        "Temperatura": "9,8",
-        "Humedad": "999,9",
-        "Punto_de_Rocio": "49,6 °c",
+        "Fecha": "7/06/2026 6:54",
+        "Temperatura": "11,1",
+        "Humedad": "-0,5",
+        "Punto_de_Rocio": null,
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=tresportenas",
-        "Direccion_del_Viento": "169",
-        "Velocidad_del_Viento": "0,4 km/h",
+        "Direccion_del_Viento": "178",
+        "Velocidad_del_Viento": "4,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_8ea0f92yvd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=410592820&single=true",
-        "Temperatura_num": 9.8,
-        "Humedad_num": 999.9,
-        "Punto_de_Rocio_num": 49.6,
+        "Temperatura_num": 11.1,
+        "Humedad_num": -0.5,
+        "Punto_de_Rocio_num": null,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 169.0,
-        "Velocidad_del_Viento_kmh_num": 0.4,
+        "Direccion_del_Viento_num": 178.0,
+        "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -32.89344,
         "Longitud": -68.38836,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671218+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880819+00:00"
       }
     },
     {
@@ -245,25 +245,25 @@
       "properties": {
         "Nombre": "Russell",
         "Coordenadas": "-33.01465, -68.74828",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "12,7",
-        "Humedad": "93,1",
-        "Punto_de_Rocio": "11,6 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "11,1",
+        "Humedad": "89,6",
+        "Punto_de_Rocio": "9,5 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=russell",
-        "Direccion_del_Viento": "145",
-        "Velocidad_del_Viento": "6,8 km/h",
+        "Direccion_del_Viento": "150",
+        "Velocidad_del_Viento": "10,1 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_yzzr6ln0wd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=867167681&single=true",
-        "Temperatura_num": 12.7,
-        "Humedad_num": 93.1,
-        "Punto_de_Rocio_num": 11.6,
+        "Temperatura_num": 11.1,
+        "Humedad_num": 89.6,
+        "Punto_de_Rocio_num": 9.5,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 145.0,
-        "Velocidad_del_Viento_kmh_num": 6.8,
+        "Direccion_del_Viento_num": 150.0,
+        "Velocidad_del_Viento_kmh_num": 10.1,
         "Latitud": -33.01465,
         "Longitud": -68.74828,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671226+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880828+00:00"
       }
     },
     {
@@ -278,25 +278,25 @@
       "properties": {
         "Nombre": "Perdriel",
         "Coordenadas": "-33.1319, -68.91601",
-        "Fecha": "7/06/2026 3:49",
-        "Temperatura": "9,4",
+        "Fecha": "7/06/2026 6:52",
+        "Temperatura": "9,6",
         "Humedad": null,
-        "Punto_de_Rocio": "9,3 °c",
+        "Punto_de_Rocio": "9,1 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=perdriel",
-        "Direccion_del_Viento": "198",
-        "Velocidad_del_Viento": "2,9 km/h",
+        "Direccion_del_Viento": "179",
+        "Velocidad_del_Viento": "5,4 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_kvl4rpn0wd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1306897260&single=true",
-        "Temperatura_num": 9.4,
+        "Temperatura_num": 9.6,
         "Humedad_num": null,
-        "Punto_de_Rocio_num": 9.3,
+        "Punto_de_Rocio_num": 9.1,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 198.0,
-        "Velocidad_del_Viento_kmh_num": 2.9,
+        "Direccion_del_Viento_num": 179.0,
+        "Velocidad_del_Viento_kmh_num": 5.4,
         "Latitud": -33.1319,
         "Longitud": -68.91601,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671234+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880837+00:00"
       }
     },
     {
@@ -311,25 +311,25 @@
       "properties": {
         "Nombre": "Las Violetas",
         "Coordenadas": "-32.83289, -68.60047",
-        "Fecha": "7/06/2026 3:47",
-        "Temperatura": "10,4",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "10,5",
         "Humedad": null,
-        "Punto_de_Rocio": "9,9 °c",
+        "Punto_de_Rocio": "9,8 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lasvioletas",
-        "Direccion_del_Viento": "329",
+        "Direccion_del_Viento": "218",
         "Velocidad_del_Viento": "0,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_lp6ivyhw0d",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=894121918&single=true",
-        "Temperatura_num": 10.4,
+        "Temperatura_num": 10.5,
         "Humedad_num": null,
-        "Punto_de_Rocio_num": 9.9,
+        "Punto_de_Rocio_num": 9.8,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 329.0,
+        "Direccion_del_Viento_num": 218.0,
         "Velocidad_del_Viento_kmh_num": 0.0,
         "Latitud": -32.83289,
         "Longitud": -68.60047,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671242+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880845+00:00"
       }
     },
     {
@@ -362,7 +362,7 @@
         "Velocidad_del_Viento_kmh_num": 9.7,
         "Latitud": -32.64611,
         "Longitud": -68.31388,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671250+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880854+00:00"
       }
     },
     {
@@ -395,7 +395,7 @@
         "Velocidad_del_Viento_kmh_num": 2.9,
         "Latitud": -32.59714,
         "Longitud": -68.59868,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671259+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880862+00:00"
       }
     },
     {
@@ -410,25 +410,25 @@
       "properties": {
         "Nombre": "Tunuyan",
         "Coordenadas": "-33.563946, -69.039364",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "9,6",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "8,7",
         "Humedad": "98,2",
-        "Punto_de_Rocio": "9,3 °c",
+        "Punto_de_Rocio": "8,4 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=tunuyan",
-        "Direccion_del_Viento": "276",
-        "Velocidad_del_Viento": "0,0 km/h",
+        "Direccion_del_Viento": "225",
+        "Velocidad_del_Viento": "3,2 km/h",
         "Datos_Historicos": null,
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=0&single=true",
-        "Temperatura_num": 9.6,
+        "Temperatura_num": 8.7,
         "Humedad_num": 98.2,
-        "Punto_de_Rocio_num": 9.3,
+        "Punto_de_Rocio_num": 8.4,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 276.0,
-        "Velocidad_del_Viento_kmh_num": 0.0,
+        "Direccion_del_Viento_num": 225.0,
+        "Velocidad_del_Viento_kmh_num": 3.2,
         "Latitud": -33.563946,
         "Longitud": -69.039364,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671267+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880870+00:00"
       }
     },
     {
@@ -443,25 +443,25 @@
       "properties": {
         "Nombre": "La Consulta",
         "Coordenadas": "-33.70657, -69.07336",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "7,9",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "7,7",
         "Humedad": "98",
-        "Punto_de_Rocio": "7,5 °c",
+        "Punto_de_Rocio": "7,3 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=laconsulta",
-        "Direccion_del_Viento": "140",
-        "Velocidad_del_Viento": "0,0 km/h",
+        "Direccion_del_Viento": "222",
+        "Velocidad_del_Viento": "7,6 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_h1ulhnmhqd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1529584973&single=true",
-        "Temperatura_num": 7.9,
+        "Temperatura_num": 7.7,
         "Humedad_num": 98.0,
-        "Punto_de_Rocio_num": 7.5,
+        "Punto_de_Rocio_num": 7.3,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 140.0,
-        "Velocidad_del_Viento_kmh_num": 0.0,
+        "Direccion_del_Viento_num": 222.0,
+        "Velocidad_del_Viento_kmh_num": 7.6,
         "Latitud": -33.70657,
         "Longitud": -69.07336,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671276+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880880+00:00"
       }
     },
     {
@@ -476,25 +476,25 @@
       "properties": {
         "Nombre": "Vista Flores",
         "Coordenadas": "-33.64461, -69.16134",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "7,9",
-        "Humedad": "98,7",
-        "Punto_de_Rocio": "7,7 °c",
+        "Fecha": "7/06/2026 6:49",
+        "Temperatura": "7,0",
+        "Humedad": "98,6",
+        "Punto_de_Rocio": "6,8 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=vistaflores",
-        "Direccion_del_Viento": "206",
+        "Direccion_del_Viento": "255",
         "Velocidad_del_Viento": "6,1 km/h",
         "Datos_Historicos": null,
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1015607938&single=true",
-        "Temperatura_num": 7.9,
-        "Humedad_num": 98.7,
-        "Punto_de_Rocio_num": 7.7,
+        "Temperatura_num": 7.0,
+        "Humedad_num": 98.6,
+        "Punto_de_Rocio_num": 6.8,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 206.0,
+        "Direccion_del_Viento_num": 255.0,
         "Velocidad_del_Viento_kmh_num": 6.1,
         "Latitud": -33.64461,
         "Longitud": -69.16134,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671286+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880888+00:00"
       }
     },
     {
@@ -509,25 +509,25 @@
       "properties": {
         "Nombre": "Agua Amarga",
         "Coordenadas": "-33.508459, -69.201884",
-        "Fecha": "7/06/2026 3:45",
-        "Temperatura": "8,2",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "7,0",
         "Humedad": null,
-        "Punto_de_Rocio": "6,9 °c",
+        "Punto_de_Rocio": "6,7 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=aguaamarga",
-        "Direccion_del_Viento": "289",
-        "Velocidad_del_Viento": "3,6 km/h",
+        "Direccion_del_Viento": "252",
+        "Velocidad_del_Viento": "7,2 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_uqac6ukcxd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=934687695&single=true",
-        "Temperatura_num": 8.2,
+        "Temperatura_num": 7.0,
         "Humedad_num": null,
-        "Punto_de_Rocio_num": 6.9,
+        "Punto_de_Rocio_num": 6.7,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 289.0,
-        "Velocidad_del_Viento_kmh_num": 3.6,
+        "Direccion_del_Viento_num": 252.0,
+        "Velocidad_del_Viento_kmh_num": 7.2,
         "Latitud": -33.508459,
         "Longitud": -69.201884,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671294+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880896+00:00"
       }
     },
     {
@@ -542,25 +542,25 @@
       "properties": {
         "Nombre": "El Cepillo",
         "Coordenadas": "-33.80534, -69.10423",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "5,4",
-        "Humedad": "98",
-        "Punto_de_Rocio": "5,1 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "6,6",
+        "Humedad": "93",
+        "Punto_de_Rocio": "5,5 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elcepillo",
-        "Direccion_del_Viento": "186",
-        "Velocidad_del_Viento": "7,9 km/h",
+        "Direccion_del_Viento": "166",
+        "Velocidad_del_Viento": "10,4 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_89deb7mhqd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=885595981&single=true",
-        "Temperatura_num": 5.4,
-        "Humedad_num": 98.0,
-        "Punto_de_Rocio_num": 5.1,
+        "Temperatura_num": 6.6,
+        "Humedad_num": 93.0,
+        "Punto_de_Rocio_num": 5.5,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 186.0,
-        "Velocidad_del_Viento_kmh_num": 7.9,
+        "Direccion_del_Viento_num": 166.0,
+        "Velocidad_del_Viento_kmh_num": 10.4,
         "Latitud": -33.80534,
         "Longitud": -69.10423,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671303+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880904+00:00"
       }
     },
     {
@@ -575,25 +575,25 @@
       "properties": {
         "Nombre": "La Llave",
         "Coordenadas": "-34.64713, -68.01537",
-        "Fecha": "7/06/2026 3:45",
-        "Temperatura": "11,0",
-        "Humedad": "98,8",
-        "Punto_de_Rocio": "10,8 °c",
-        "Precipitacion": "2,75 mm",
+        "Fecha": "7/06/2026 6:49",
+        "Temperatura": "10,5",
+        "Humedad": "99",
+        "Punto_de_Rocio": "10,3 °c",
+        "Precipitacion": "5,50 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lalllave",
-        "Direccion_del_Viento": "151",
-        "Velocidad_del_Viento": "13,0 km/h",
+        "Direccion_del_Viento": "158",
+        "Velocidad_del_Viento": "9,4 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_ktv29i9kkd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=0&single=true",
-        "Temperatura_num": 11.0,
-        "Humedad_num": 98.8,
-        "Punto_de_Rocio_num": 10.8,
-        "Precipitacion_mm_num": 2.75,
-        "Direccion_del_Viento_num": 151.0,
-        "Velocidad_del_Viento_kmh_num": 13.0,
+        "Temperatura_num": 10.5,
+        "Humedad_num": 99.0,
+        "Punto_de_Rocio_num": 10.3,
+        "Precipitacion_mm_num": 5.5,
+        "Direccion_del_Viento_num": 158.0,
+        "Velocidad_del_Viento_kmh_num": 9.4,
         "Latitud": -34.64713,
         "Longitud": -68.01537,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671314+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880913+00:00"
       }
     },
     {
@@ -626,7 +626,7 @@
         "Velocidad_del_Viento_kmh_num": 2.2,
         "Latitud": -34.51027,
         "Longitud": -68.28583,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671323+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880923+00:00"
       }
     },
     {
@@ -659,7 +659,7 @@
         "Velocidad_del_Viento_kmh_num": 6.8,
         "Latitud": -34.98214,
         "Longitud": -67.51555,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671330+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880931+00:00"
       }
     },
     {
@@ -692,7 +692,7 @@
         "Velocidad_del_Viento_kmh_num": 7.9,
         "Latitud": -34.91472,
         "Longitud": -67.59527,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671341+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880941+00:00"
       }
     },
     {
@@ -725,7 +725,7 @@
         "Velocidad_del_Viento_kmh_num": 5.8,
         "Latitud": -34.87194,
         "Longitud": -67.72277,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671349+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880949+00:00"
       }
     },
     {
@@ -758,7 +758,7 @@
         "Velocidad_del_Viento_kmh_num": 2.2,
         "Latitud": -34.64142,
         "Longitud": -68.46981,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671357+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880957+00:00"
       }
     },
     {
@@ -791,7 +791,7 @@
         "Velocidad_del_Viento_kmh_num": 3.2,
         "Latitud": -34.53346,
         "Longitud": -68.4234,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671365+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880965+00:00"
       }
     },
     {
@@ -824,7 +824,7 @@
         "Velocidad_del_Viento_kmh_num": 5.0,
         "Latitud": -34.8327,
         "Longitud": -67.89835,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671373+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880974+00:00"
       }
     },
     {
@@ -857,7 +857,7 @@
         "Velocidad_del_Viento_kmh_num": 4.7,
         "Latitud": -34.93222,
         "Longitud": -67.42999,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671381+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880983+00:00"
       }
     },
     {
@@ -890,7 +890,7 @@
         "Velocidad_del_Viento_kmh_num": 7.2,
         "Latitud": -34.99722,
         "Longitud": -67.63277,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671390+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.880993+00:00"
       }
     },
     {
@@ -923,7 +923,7 @@
         "Velocidad_del_Viento_kmh_num": 3.6,
         "Latitud": -33.072353,
         "Longitud": -68.464505,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671401+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881003+00:00"
       }
     },
     {
@@ -938,25 +938,25 @@
       "properties": {
         "Nombre": "Colonia las Rosas",
         "Coordenadas": "-33.61922, -69.10838",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "7,9",
-        "Humedad": "98,7",
-        "Punto_de_Rocio": "7,7 °c",
+        "Fecha": "7/06/2026 6:49",
+        "Temperatura": "7,0",
+        "Humedad": "98,6",
+        "Punto_de_Rocio": "6,8 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=colonialasrosas",
-        "Direccion_del_Viento": "206",
+        "Direccion_del_Viento": "255",
         "Velocidad_del_Viento": "6,1 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_mm74s6l6pd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=709552682&single=true",
-        "Temperatura_num": 7.9,
-        "Humedad_num": 98.7,
-        "Punto_de_Rocio_num": 7.7,
+        "Temperatura_num": 7.0,
+        "Humedad_num": 98.6,
+        "Punto_de_Rocio_num": 6.8,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 206.0,
+        "Direccion_del_Viento_num": 255.0,
         "Velocidad_del_Viento_kmh_num": 6.1,
         "Latitud": -33.61922,
         "Longitud": -69.10838,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671412+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881013+00:00"
       }
     },
     {
@@ -971,25 +971,25 @@
       "properties": {
         "Nombre": "Dubois",
         "Coordenadas": "-33.43319, -69.04251",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "8,8",
-        "Humedad": "95",
-        "Punto_de_Rocio": "8,0 °c",
+        "Fecha": "7/06/2026 6:35",
+        "Temperatura": "7,3",
+        "Humedad": "98,3",
+        "Punto_de_Rocio": "7,0 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=dubois",
-        "Direccion_del_Viento": "352",
-        "Velocidad_del_Viento": "4,7 km/h",
+        "Direccion_del_Viento": "282",
+        "Velocidad_del_Viento": "4,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_4qnfmdm6pd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=428487747&single=true",
-        "Temperatura_num": 8.8,
-        "Humedad_num": 95.0,
-        "Punto_de_Rocio_num": 8.0,
+        "Temperatura_num": 7.3,
+        "Humedad_num": 98.3,
+        "Punto_de_Rocio_num": 7.0,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 352.0,
-        "Velocidad_del_Viento_kmh_num": 4.7,
+        "Direccion_del_Viento_num": 282.0,
+        "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -33.43319,
         "Longitud": -69.04251,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671423+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881025+00:00"
       }
     },
     {
@@ -1004,25 +1004,25 @@
       "properties": {
         "Nombre": "El Peral",
         "Coordenadas": "-33.34669, -69.15766",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "8,0",
-        "Humedad": "89,4",
-        "Punto_de_Rocio": "6,4 °c",
+        "Fecha": "7/06/2026 6:35",
+        "Temperatura": "6,2",
+        "Humedad": "98,1",
+        "Punto_de_Rocio": "5,9 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elperal",
-        "Direccion_del_Viento": "308",
-        "Velocidad_del_Viento": "4,7 km/h",
+        "Direccion_del_Viento": "300",
+        "Velocidad_del_Viento": "2,5 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_7gaprfmhqd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=930117608&single=true",
-        "Temperatura_num": 8.0,
-        "Humedad_num": 89.4,
-        "Punto_de_Rocio_num": 6.4,
+        "Temperatura_num": 6.2,
+        "Humedad_num": 98.1,
+        "Punto_de_Rocio_num": 5.9,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 308.0,
-        "Velocidad_del_Viento_kmh_num": 4.7,
+        "Direccion_del_Viento_num": 300.0,
+        "Velocidad_del_Viento_kmh_num": 2.5,
         "Latitud": -33.34669,
         "Longitud": -69.15766,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671431+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881033+00:00"
       }
     },
     {
@@ -1037,25 +1037,25 @@
       "properties": {
         "Nombre": "Salentein",
         "Coordenadas": "-33.51461, -69.00188",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "9,6",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "8,7",
         "Humedad": "98,2",
-        "Punto_de_Rocio": "9,3 °c",
+        "Punto_de_Rocio": "8,4 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=salentein",
-        "Direccion_del_Viento": "276",
-        "Velocidad_del_Viento": "0,0 km/h",
+        "Direccion_del_Viento": "225",
+        "Velocidad_del_Viento": "3,2 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_azejpimhqd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=705838184&single=true",
-        "Temperatura_num": 9.6,
+        "Temperatura_num": 8.7,
         "Humedad_num": 98.2,
-        "Punto_de_Rocio_num": 9.3,
+        "Punto_de_Rocio_num": 8.4,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 276.0,
-        "Velocidad_del_Viento_kmh_num": 0.0,
+        "Direccion_del_Viento_num": 225.0,
+        "Velocidad_del_Viento_kmh_num": 3.2,
         "Latitud": -33.51461,
         "Longitud": -69.00188,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671439+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881041+00:00"
       }
     },
     {
@@ -1088,7 +1088,7 @@
         "Velocidad_del_Viento_kmh_num": 5.8,
         "Latitud": -35.01066,
         "Longitud": -67.55712,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671447+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881049+00:00"
       }
     },
     {
@@ -1103,25 +1103,25 @@
       "properties": {
         "Nombre": "Carrizal",
         "Coordenadas": "-33.307417, -68.714465",
-        "Fecha": "7/06/2026 3:49",
-        "Temperatura": "10,5",
-        "Humedad": "98,8",
+        "Fecha": "7/06/2026 6:53",
+        "Temperatura": "9,9",
+        "Humedad": "98,7",
         "Punto_de_Rocio": "9,2 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=carrizal",
-        "Direccion_del_Viento": "238",
-        "Velocidad_del_Viento": "4,0 km/h",
+        "Direccion_del_Viento": "234",
+        "Velocidad_del_Viento": "3,2 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_yw8h5mm4sd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=85897335&single=true",
-        "Temperatura_num": 10.5,
-        "Humedad_num": 98.8,
+        "Temperatura_num": 9.9,
+        "Humedad_num": 98.7,
         "Punto_de_Rocio_num": 9.2,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 238.0,
-        "Velocidad_del_Viento_kmh_num": 4.0,
+        "Direccion_del_Viento_num": 234.0,
+        "Velocidad_del_Viento_kmh_num": 3.2,
         "Latitud": -33.307417,
         "Longitud": -68.714465,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671458+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881058+00:00"
       }
     },
     {
@@ -1154,7 +1154,7 @@
         "Velocidad_del_Viento_kmh_num": 0.0,
         "Latitud": -34.739191,
         "Longitud": -68.313515,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671466+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881068+00:00"
       }
     },
     {
@@ -1187,7 +1187,7 @@
         "Velocidad_del_Viento_kmh_num": 1.8,
         "Latitud": -33.392334,
         "Longitud": -68.09249,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671474+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881076+00:00"
       }
     },
     {
@@ -1220,7 +1220,7 @@
         "Velocidad_del_Viento_kmh_num": 0.0,
         "Latitud": -33.3881,
         "Longitud": -67.85475,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671485+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881085+00:00"
       }
     },
     {
@@ -1235,25 +1235,25 @@
       "properties": {
         "Nombre": "Casas Viejas",
         "Coordenadas": "-33.87868, -69.03688",
-        "Fecha": "7/06/2026 3:44",
-        "Temperatura": "5,4",
-        "Humedad": "97,9",
-        "Punto_de_Rocio": "5,1 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "6,0",
+        "Humedad": "98,1",
+        "Punto_de_Rocio": "5,7 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=casasviejas",
-        "Direccion_del_Viento": "165",
-        "Velocidad_del_Viento": "9,4 km/h",
+        "Direccion_del_Viento": "182",
+        "Velocidad_del_Viento": "6,1 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_6sysjco6sd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=696509580&single=true",
-        "Temperatura_num": 5.4,
-        "Humedad_num": 97.9,
-        "Punto_de_Rocio_num": 5.1,
+        "Temperatura_num": 6.0,
+        "Humedad_num": 98.1,
+        "Punto_de_Rocio_num": 5.7,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 165.0,
-        "Velocidad_del_Viento_kmh_num": 9.4,
+        "Direccion_del_Viento_num": 182.0,
+        "Velocidad_del_Viento_kmh_num": 6.1,
         "Latitud": -33.87868,
         "Longitud": -69.03688,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671493+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881093+00:00"
       }
     },
     {
@@ -1268,25 +1268,25 @@
       "properties": {
         "Nombre": "Lambare",
         "Coordenadas": "-33.015244, -68.306722",
-        "Fecha": "7/06/2026 3:50",
-        "Temperatura": "10,8",
+        "Fecha": "7/06/2026 6:54",
+        "Temperatura": "11,3",
         "Humedad": "97,9",
-        "Punto_de_Rocio": "10,5 °c",
+        "Punto_de_Rocio": "11,0 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=lambare",
-        "Direccion_del_Viento": "195",
-        "Velocidad_del_Viento": "6,1 km/h",
+        "Direccion_del_Viento": "169",
+        "Velocidad_del_Viento": "12,6 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_yffx5ao5sd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1815920711&single=true",
-        "Temperatura_num": 10.8,
+        "Temperatura_num": 11.3,
         "Humedad_num": 97.9,
-        "Punto_de_Rocio_num": 10.5,
+        "Punto_de_Rocio_num": 11.0,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 195.0,
-        "Velocidad_del_Viento_kmh_num": 6.1,
+        "Direccion_del_Viento_num": 169.0,
+        "Velocidad_del_Viento_kmh_num": 12.6,
         "Latitud": -33.015244,
         "Longitud": -68.306722,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671501+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881101+00:00"
       }
     },
     {
@@ -1301,25 +1301,25 @@
       "properties": {
         "Nombre": "Los Alamos",
         "Coordenadas": "-32.96841, -68.56358",
-        "Fecha": "7/06/2026 3:39",
-        "Temperatura": "12,3",
-        "Humedad": "95,6",
-        "Punto_de_Rocio": "11,6 °c",
+        "Fecha": "7/06/2026 5:39",
+        "Temperatura": "11,6",
+        "Humedad": "97,1",
+        "Punto_de_Rocio": "11,2 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=losalamos",
-        "Direccion_del_Viento": "213",
-        "Velocidad_del_Viento": "11,5 km/h",
+        "Direccion_del_Viento": "185",
+        "Velocidad_del_Viento": "6,1 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_4io7cfo5sd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=998769565&single=true",
-        "Temperatura_num": 12.3,
-        "Humedad_num": 95.6,
-        "Punto_de_Rocio_num": 11.6,
+        "Temperatura_num": 11.6,
+        "Humedad_num": 97.1,
+        "Punto_de_Rocio_num": 11.2,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 213.0,
-        "Velocidad_del_Viento_kmh_num": 11.5,
+        "Direccion_del_Viento_num": 185.0,
+        "Velocidad_del_Viento_kmh_num": 6.1,
         "Latitud": -32.96841,
         "Longitud": -68.56358,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671509+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881109+00:00"
       }
     },
     {
@@ -1334,25 +1334,25 @@
       "properties": {
         "Nombre": "Goudge",
         "Coordenadas": "-34.687674, -68.154125",
-        "Fecha": "7/06/2026 3:43",
-        "Temperatura": "10,9",
+        "Fecha": "7/06/2026 5:30",
+        "Temperatura": "10,7",
         "Humedad": "999,9",
-        "Punto_de_Rocio": "51,2 °c",
+        "Punto_de_Rocio": "51,0 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=goudge",
-        "Direccion_del_Viento": "129",
-        "Velocidad_del_Viento": "15,5 km/h",
+        "Direccion_del_Viento": "160",
+        "Velocidad_del_Viento": "7,9 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_0m24dsdaud",
         "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=920985086&single=true",
-        "Temperatura_num": 10.9,
+        "Temperatura_num": 10.7,
         "Humedad_num": 999.9,
-        "Punto_de_Rocio_num": 51.2,
+        "Punto_de_Rocio_num": 51.0,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 129.0,
-        "Velocidad_del_Viento_kmh_num": 15.5,
+        "Direccion_del_Viento_num": 160.0,
+        "Velocidad_del_Viento_kmh_num": 7.9,
         "Latitud": -34.687674,
         "Longitud": -68.154125,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671519+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881119+00:00"
       }
     },
     {
@@ -1367,25 +1367,25 @@
       "properties": {
         "Nombre": "Anchoris",
         "Coordenadas": "-33.319999, -68.916980",
-        "Fecha": "7/06/2026 3:44",
-        "Temperatura": "10,0",
-        "Humedad": "96,5",
-        "Punto_de_Rocio": "9,5 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "9,6",
+        "Humedad": "97,6",
+        "Punto_de_Rocio": "9,2 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=anchoris",
-        "Direccion_del_Viento": "182",
-        "Velocidad_del_Viento": "4,3 km/h",
+        "Direccion_del_Viento": "226",
+        "Velocidad_del_Viento": "11,9 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_58r3l77fvd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1325564504&single=true",
-        "Temperatura_num": 10.0,
-        "Humedad_num": 96.5,
-        "Punto_de_Rocio_num": 9.5,
+        "Temperatura_num": 9.6,
+        "Humedad_num": 97.6,
+        "Punto_de_Rocio_num": 9.2,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 182.0,
-        "Velocidad_del_Viento_kmh_num": 4.3,
+        "Direccion_del_Viento_num": 226.0,
+        "Velocidad_del_Viento_kmh_num": 11.9,
         "Latitud": -33.319999,
         "Longitud": -68.91698,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671527+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881127+00:00"
       }
     },
     {
@@ -1400,25 +1400,25 @@
       "properties": {
         "Nombre": "Doña Paula",
         "Coordenadas": "-33.25305, -68.96251",
-        "Fecha": "7/06/2026 3:30",
-        "Temperatura": "9,1",
-        "Humedad": "88,5",
-        "Punto_de_Rocio": "7,3 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "8,5",
+        "Humedad": "93,3",
+        "Punto_de_Rocio": "7,5 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=donapaula",
-        "Direccion_del_Viento": "195",
-        "Velocidad_del_Viento": "3,2 km/h",
+        "Direccion_del_Viento": "187",
+        "Velocidad_del_Viento": "5,8 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_osrk477fvd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=2069219791&single=true",
-        "Temperatura_num": 9.1,
-        "Humedad_num": 88.5,
-        "Punto_de_Rocio_num": 7.3,
+        "Temperatura_num": 8.5,
+        "Humedad_num": 93.3,
+        "Punto_de_Rocio_num": 7.5,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 195.0,
-        "Velocidad_del_Viento_kmh_num": 3.2,
+        "Direccion_del_Viento_num": 187.0,
+        "Velocidad_del_Viento_kmh_num": 5.8,
         "Latitud": -33.25305,
         "Longitud": -68.96251,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671536+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881135+00:00"
       }
     },
     {
@@ -1433,25 +1433,25 @@
       "properties": {
         "Nombre": "Reduccion",
         "Coordenadas": "-33.205193, -68.598308",
-        "Fecha": "7/06/2026 3:45",
-        "Temperatura": "10,5",
-        "Humedad": "95,8",
-        "Punto_de_Rocio": "9,9 °c",
+        "Fecha": "7/06/2026 6:54",
+        "Temperatura": "10,2",
+        "Humedad": "96,1",
+        "Punto_de_Rocio": "9,6 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=reduccion",
-        "Direccion_del_Viento": "205",
-        "Velocidad_del_Viento": "2,2 km/h",
+        "Direccion_del_Viento": "234",
+        "Velocidad_del_Viento": "0,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_26u5otq6vd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=374540846&single=true",
-        "Temperatura_num": 10.5,
-        "Humedad_num": 95.8,
-        "Punto_de_Rocio_num": 9.9,
+        "Temperatura_num": 10.2,
+        "Humedad_num": 96.1,
+        "Punto_de_Rocio_num": 9.6,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 205.0,
-        "Velocidad_del_Viento_kmh_num": 2.2,
+        "Direccion_del_Viento_num": 234.0,
+        "Velocidad_del_Viento_kmh_num": 0.0,
         "Latitud": -33.205193,
         "Longitud": -68.598308,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671543+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881144+00:00"
       }
     },
     {
@@ -1466,25 +1466,25 @@
       "properties": {
         "Nombre": "Pareditas",
         "Coordenadas": "-33.96004, -69.07936",
-        "Fecha": "7/06/2026 3:44",
-        "Temperatura": "5,2",
-        "Humedad": "98,6",
-        "Punto_de_Rocio": "5,0 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "6,9",
+        "Humedad": "94,6",
+        "Punto_de_Rocio": "6,1 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=pareditas",
-        "Direccion_del_Viento": "173",
-        "Velocidad_del_Viento": "4,0 km/h",
+        "Direccion_del_Viento": "218",
+        "Velocidad_del_Viento": "12,2 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_8md7alovvd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1188976703&single=true",
-        "Temperatura_num": 5.2,
-        "Humedad_num": 98.6,
-        "Punto_de_Rocio_num": 5.0,
+        "Temperatura_num": 6.9,
+        "Humedad_num": 94.6,
+        "Punto_de_Rocio_num": 6.1,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 173.0,
-        "Velocidad_del_Viento_kmh_num": 4.0,
+        "Direccion_del_Viento_num": 218.0,
+        "Velocidad_del_Viento_kmh_num": 12.2,
         "Latitud": -33.96004,
         "Longitud": -69.07936,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671551+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881152+00:00"
       }
     },
     {
@@ -1517,7 +1517,7 @@
         "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -32.74771,
         "Longitud": -68.32965,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671559+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881160+00:00"
       }
     },
     {
@@ -1532,25 +1532,25 @@
       "properties": {
         "Nombre": "El Mirador",
         "Coordenadas": "-33.332741, -68.338421",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "11,1",
-        "Humedad": "97,6",
-        "Punto_de_Rocio": "10,7 °c",
+        "Fecha": "7/06/2026 6:44",
+        "Temperatura": "11,0",
+        "Humedad": "97,5",
+        "Punto_de_Rocio": "10,6 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elmirador",
-        "Direccion_del_Viento": "250",
-        "Velocidad_del_Viento": "3,2 km/h",
+        "Direccion_del_Viento": "234",
+        "Velocidad_del_Viento": "11,9 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/u/0/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_pcv45o77vd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=596927444&single=true",
-        "Temperatura_num": 11.1,
-        "Humedad_num": 97.6,
-        "Punto_de_Rocio_num": 10.7,
+        "Temperatura_num": 11.0,
+        "Humedad_num": 97.5,
+        "Punto_de_Rocio_num": 10.6,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 250.0,
-        "Velocidad_del_Viento_kmh_num": 3.2,
+        "Direccion_del_Viento_num": 234.0,
+        "Velocidad_del_Viento_kmh_num": 11.9,
         "Latitud": -33.332741,
         "Longitud": -68.338421,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671567+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881168+00:00"
       }
     },
     {
@@ -1565,25 +1565,25 @@
       "properties": {
         "Nombre": "Los Chacayes",
         "Coordenadas": "-33.612216, -69.204271",
-        "Fecha": "7/06/2026 3:44",
-        "Temperatura": "8,1",
-        "Humedad": "97,7",
-        "Punto_de_Rocio": "7,8 °c",
+        "Fecha": "7/06/2026 6:50",
+        "Temperatura": "7,8",
+        "Humedad": "99",
+        "Punto_de_Rocio": "7,7 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=loschacayes",
-        "Direccion_del_Viento": "227",
-        "Velocidad_del_Viento": "0,0 km/h",
+        "Direccion_del_Viento": "174",
+        "Velocidad_del_Viento": "6,5 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_1ee1kukcxd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=694054457&single=true",
-        "Temperatura_num": 8.1,
-        "Humedad_num": 97.7,
-        "Punto_de_Rocio_num": 7.8,
+        "Temperatura_num": 7.8,
+        "Humedad_num": 99.0,
+        "Punto_de_Rocio_num": 7.7,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 227.0,
-        "Velocidad_del_Viento_kmh_num": 0.0,
+        "Direccion_del_Viento_num": 174.0,
+        "Velocidad_del_Viento_kmh_num": 6.5,
         "Latitud": -33.612216,
         "Longitud": -69.204271,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671576+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881176+00:00"
       }
     },
     {
@@ -1616,7 +1616,7 @@
         "Velocidad_del_Viento_kmh_num": 3.6,
         "Latitud": -32.71372,
         "Longitud": -68.48006,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671585+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881184+00:00"
       }
     },
     {
@@ -1631,25 +1631,25 @@
       "properties": {
         "Nombre": "El Ramblon",
         "Coordenadas": "-33.09866, -68.30687",
-        "Fecha": "7/06/2026 3:47",
-        "Temperatura": "10,8",
-        "Humedad": "97,4",
-        "Punto_de_Rocio": "10,4 °c",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "11,1",
+        "Humedad": "97,8",
+        "Punto_de_Rocio": "10,8 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=elramblon",
-        "Direccion_del_Viento": "195",
-        "Velocidad_del_Viento": "6,8 km/h",
+        "Direccion_del_Viento": "188",
+        "Velocidad_del_Viento": "8,6 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_0vso2ehezd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1MujiYSwhLQdPd90Qo8T2AVP3wb6Dd-dw3qcA7NwuLYA/pubhtml?gid=1254232953&single=true",
-        "Temperatura_num": 10.8,
-        "Humedad_num": 97.4,
-        "Punto_de_Rocio_num": 10.4,
+        "Temperatura_num": 11.1,
+        "Humedad_num": 97.8,
+        "Punto_de_Rocio_num": 10.8,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 195.0,
-        "Velocidad_del_Viento_kmh_num": 6.8,
+        "Direccion_del_Viento_num": 188.0,
+        "Velocidad_del_Viento_kmh_num": 8.6,
         "Latitud": -33.09866,
         "Longitud": -68.30687,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671595+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881193+00:00"
       }
     },
     {
@@ -1682,7 +1682,7 @@
         "Velocidad_del_Viento_kmh_num": 1.8,
         "Latitud": -33.60837,
         "Longitud": -69.27995,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671603+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881202+00:00"
       }
     },
     {
@@ -1697,25 +1697,25 @@
       "properties": {
         "Nombre": "Los Chacayes (Carrizalejo)",
         "Coordenadas": "-33.604885, -69.329050",
-        "Fecha": "7/06/2026 3:45",
-        "Temperatura": "7,4",
-        "Humedad": "83,1",
-        "Punto_de_Rocio": "4,7 °c",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "4,8",
+        "Humedad": "97,6",
+        "Punto_de_Rocio": "4,5 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=loschacayescarrizalejo",
-        "Direccion_del_Viento": "243",
-        "Velocidad_del_Viento": "6,1 km/h",
+        "Direccion_del_Viento": "254",
+        "Velocidad_del_Viento": "5,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_e5be2nhezd",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=768033530&single=true",
-        "Temperatura_num": 7.4,
-        "Humedad_num": 83.1,
-        "Punto_de_Rocio_num": 4.7,
+        "Temperatura_num": 4.8,
+        "Humedad_num": 97.6,
+        "Punto_de_Rocio_num": 4.5,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 243.0,
-        "Velocidad_del_Viento_kmh_num": 6.1,
+        "Direccion_del_Viento_num": 254.0,
+        "Velocidad_del_Viento_kmh_num": 5.0,
         "Latitud": -33.604885,
         "Longitud": -69.32905,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671611+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881210+00:00"
       }
     },
     {
@@ -1730,25 +1730,25 @@
       "properties": {
         "Nombre": "Isla Chica",
         "Coordenadas": "-33.062661, -68.658793",
-        "Fecha": "7/06/2026 3:47",
-        "Temperatura": "10,3",
-        "Humedad": "98,3",
-        "Punto_de_Rocio": "10,0 °c",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "10,4",
+        "Humedad": "91,4",
+        "Punto_de_Rocio": "9,1 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=islachica",
-        "Direccion_del_Viento": "226",
-        "Velocidad_del_Viento": "4,3 km/h",
+        "Direccion_del_Viento": "199",
+        "Velocidad_del_Viento": "4,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_77qoipiw0d",
         "campo_15": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRI7SiiCPN7rqmnH94KC2RF3vtKqOO9ErCBB9xzrtZEQWA7J4zBUabI7tlQbCI4yjMGf2miEm4mfktV/pubhtml?gid=1700345372&single=true",
-        "Temperatura_num": 10.3,
-        "Humedad_num": 98.3,
-        "Punto_de_Rocio_num": 10.0,
+        "Temperatura_num": 10.4,
+        "Humedad_num": 91.4,
+        "Punto_de_Rocio_num": 9.1,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 226.0,
-        "Velocidad_del_Viento_kmh_num": 4.3,
+        "Direccion_del_Viento_num": 199.0,
+        "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -33.062661,
         "Longitud": -68.658793,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671622+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881220+00:00"
       }
     },
     {
@@ -1763,25 +1763,25 @@
       "properties": {
         "Nombre": "Jocoli Viejo",
         "Coordenadas": "-32.72044, -68.67884",
-        "Fecha": "7/06/2026 3:47",
-        "Temperatura": "10,7",
-        "Humedad": "95,3",
-        "Punto_de_Rocio": "10,0 °c",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "10,2",
+        "Humedad": "95,5",
+        "Punto_de_Rocio": "9,5 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=jocoliviejo",
-        "Direccion_del_Viento": "280",
+        "Direccion_del_Viento": "259",
         "Velocidad_del_Viento": "4,0 km/h",
         "Datos_Historicos": "https://lookerstudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_utbnftiw0d",
         "campo_15": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRI7SiiCPN7rqmnH94KC2RF3vtKqOO9ErCBB9xzrtZEQWA7J4zBUabI7tlQbCI4yjMGf2miEm4mfktV/pubhtml?gid=825433005&single=true",
-        "Temperatura_num": 10.7,
-        "Humedad_num": 95.3,
-        "Punto_de_Rocio_num": 10.0,
+        "Temperatura_num": 10.2,
+        "Humedad_num": 95.5,
+        "Punto_de_Rocio_num": 9.5,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 280.0,
+        "Direccion_del_Viento_num": 259.0,
         "Velocidad_del_Viento_kmh_num": 4.0,
         "Latitud": -32.72044,
         "Longitud": -68.67884,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671632+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881229+00:00"
       }
     },
     {
@@ -1796,25 +1796,25 @@
       "properties": {
         "Nombre": "Cruz Negra",
         "Coordenadas": "-33.443666, -68.965366",
-        "Fecha": "7/06/2026 3:45",
-        "Temperatura": "10,0",
-        "Humedad": "90,3",
-        "Punto_de_Rocio": "8,5 °c",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "8,9",
+        "Humedad": "93,7",
+        "Punto_de_Rocio": "7,9 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=cruznegra",
-        "Direccion_del_Viento": "234",
-        "Velocidad_del_Viento": "6,8 km/h",
+        "Direccion_del_Viento": "259",
+        "Velocidad_del_Viento": "14,4 km/h",
         "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_qikjjx3f3d",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=337841247&single=true",
-        "Temperatura_num": 10.0,
-        "Humedad_num": 90.3,
-        "Punto_de_Rocio_num": 8.5,
+        "Temperatura_num": 8.9,
+        "Humedad_num": 93.7,
+        "Punto_de_Rocio_num": 7.9,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 234.0,
-        "Velocidad_del_Viento_kmh_num": 6.8,
+        "Direccion_del_Viento_num": 259.0,
+        "Velocidad_del_Viento_kmh_num": 14.4,
         "Latitud": -33.443666,
         "Longitud": -68.965366,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671640+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881238+00:00"
       }
     },
     {
@@ -1829,25 +1829,25 @@
       "properties": {
         "Nombre": "Cordon del Plata",
         "Coordenadas": "-33.423616, -69.133912",
-        "Fecha": "7/06/2026 3:46",
-        "Temperatura": "8,7",
-        "Humedad": "96",
-        "Punto_de_Rocio": "8,1 °c",
+        "Fecha": "7/06/2026 6:51",
+        "Temperatura": "7,0",
+        "Humedad": "99,2",
+        "Punto_de_Rocio": "6,9 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=cordondelplata",
-        "Direccion_del_Viento": "295",
-        "Velocidad_del_Viento": "5,0 km/h",
+        "Direccion_del_Viento": "255",
+        "Velocidad_del_Viento": "6,8 km/h",
         "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_or2th13f3d",
         "campo_15": "https://docs.google.com/spreadsheets/d/1PhWkz3WAtwOwPC3nE6TeOAOtjIGhmdkIVwHy3p5Uaj8/pubhtml?gid=1680678841&single=true",
-        "Temperatura_num": 8.7,
-        "Humedad_num": 96.0,
-        "Punto_de_Rocio_num": 8.1,
+        "Temperatura_num": 7.0,
+        "Humedad_num": 99.2,
+        "Punto_de_Rocio_num": 6.9,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 295.0,
-        "Velocidad_del_Viento_kmh_num": 5.0,
+        "Direccion_del_Viento_num": 255.0,
+        "Velocidad_del_Viento_kmh_num": 6.8,
         "Latitud": -33.423616,
         "Longitud": -69.133912,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671648+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881246+00:00"
       }
     },
     {
@@ -1862,25 +1862,25 @@
       "properties": {
         "Nombre": "Colonia Elena",
         "Coordenadas": "-34.566594, -68.008373",
-        "Fecha": "7/06/2026 2:59",
-        "Temperatura": "11,2",
+        "Fecha": "7/06/2026 5:20",
+        "Temperatura": "10,4",
         "Humedad": "999,9",
-        "Punto_de_Rocio": "51,6 °c",
+        "Punto_de_Rocio": "50,6 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=coloniaelena",
-        "Direccion_del_Viento": "210",
-        "Velocidad_del_Viento": "4,0 km/h",
+        "Direccion_del_Viento": "178",
+        "Velocidad_del_Viento": "6,5 km/h",
         "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_8vkld83f3d",
         "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1380462189&single=true",
-        "Temperatura_num": 11.2,
+        "Temperatura_num": 10.4,
         "Humedad_num": 999.9,
-        "Punto_de_Rocio_num": 51.6,
+        "Punto_de_Rocio_num": 50.6,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 210.0,
-        "Velocidad_del_Viento_kmh_num": 4.0,
+        "Direccion_del_Viento_num": 178.0,
+        "Velocidad_del_Viento_kmh_num": 6.5,
         "Latitud": -34.566594,
         "Longitud": -68.008373,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671656+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881254+00:00"
       }
     },
     {
@@ -1895,25 +1895,25 @@
       "properties": {
         "Nombre": "Resolana",
         "Coordenadas": "-34.530612, -68.101400",
-        "Fecha": "7/06/2026 3:43",
-        "Temperatura": "11,4",
-        "Humedad": "98,3",
-        "Punto_de_Rocio": "11,1 °c",
+        "Fecha": "7/06/2026 5:30",
+        "Temperatura": "10,4",
+        "Humedad": "98,4",
+        "Punto_de_Rocio": "10,2 °c",
         "Precipitacion": "0,00 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=resolana",
-        "Direccion_del_Viento": "53",
-        "Velocidad_del_Viento": "6,8 km/h",
+        "Direccion_del_Viento": "24",
+        "Velocidad_del_Viento": "6,1 km/h",
         "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_u300ne4f3d",
         "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=1700196976&single=true",
-        "Temperatura_num": 11.4,
-        "Humedad_num": 98.3,
-        "Punto_de_Rocio_num": 11.1,
+        "Temperatura_num": 10.4,
+        "Humedad_num": 98.4,
+        "Punto_de_Rocio_num": 10.2,
         "Precipitacion_mm_num": 0.0,
-        "Direccion_del_Viento_num": 53.0,
-        "Velocidad_del_Viento_kmh_num": 6.8,
+        "Direccion_del_Viento_num": 24.0,
+        "Velocidad_del_Viento_kmh_num": 6.1,
         "Latitud": -34.530612,
         "Longitud": -68.1014,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671665+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881263+00:00"
       }
     },
     {
@@ -1928,25 +1928,25 @@
       "properties": {
         "Nombre": "Monte Coman",
         "Coordenadas": "-34.568597, -67.861878",
-        "Fecha": "7/06/2026 3:44",
-        "Temperatura": "11,3",
-        "Humedad": "97,9",
-        "Punto_de_Rocio": "11,0 °c",
-        "Precipitacion": "2,50 mm",
+        "Fecha": "7/06/2026 6:48",
+        "Temperatura": "10,4",
+        "Humedad": "97,6",
+        "Punto_de_Rocio": "10,0 °c",
+        "Precipitacion": "2,75 mm",
         "Link": "https://script.google.com/macros/s/AKfycbx-0_u39ade9MBFwsnDPU82T_y9o3eVTLfbMd5qrpH7U7J6O-ykCdZW-xwvFYpKLTeT/exec?estacion=montecoman",
-        "Direccion_del_Viento": "183",
-        "Velocidad_del_Viento": "6,1 km/h",
+        "Direccion_del_Viento": "191",
+        "Velocidad_del_Viento": "10,4 km/h",
         "Datos_Historicos": "https://datastudio.google.com/embed/reporting/ca75f855-406e-41c2-bd8a-8a9473890b0f/page/p_7zwtlg4f3d",
         "campo_15": "https://docs.google.com/spreadsheets/d/1Ww_JDk53a6hO_16DAwSb2JNeGYk0dT0z_hzSeZYhsUI/pubhtml?gid=723049301&single=true",
-        "Temperatura_num": 11.3,
-        "Humedad_num": 97.9,
-        "Punto_de_Rocio_num": 11.0,
-        "Precipitacion_mm_num": 2.5,
-        "Direccion_del_Viento_num": 183.0,
-        "Velocidad_del_Viento_kmh_num": 6.1,
+        "Temperatura_num": 10.4,
+        "Humedad_num": 97.6,
+        "Punto_de_Rocio_num": 10.0,
+        "Precipitacion_mm_num": 2.75,
+        "Direccion_del_Viento_num": 191.0,
+        "Velocidad_del_Viento_kmh_num": 10.4,
         "Latitud": -34.568597,
         "Longitud": -67.861878,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671673+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881271+00:00"
       }
     },
     {
@@ -1979,7 +1979,7 @@
         "Velocidad_del_Viento_kmh_num": 3.6,
         "Latitud": -34.828069,
         "Longitud": -68.25113,
-        "actualizacion_geojson_utc": "2026-06-07T06:51:40.671684+00:00"
+        "actualizacion_geojson_utc": "2026-06-07T09:56:12.881282+00:00"
       }
     }
   ]
